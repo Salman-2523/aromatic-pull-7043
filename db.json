@@ -1,0 +1,1517 @@
+{
+  "data": {
+    "newSchedule": [
+      {
+        "seriesView": true,
+        "seriesAvailable": true,
+        "seriesID": "2653",
+        "matchType": "T20",
+        "seriesName": "ICC Academy Summer Cup, 2022",
+        "matches": [
+          {
+            "seriesID": "2653",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "ICC Academy Summer Cup, 2022",
+            "homeTeamName": "SVD",
+            "awayTeamName": "MEM",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215658",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Match 4",
+            "venue": " Abu Dhabi",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "SVD",
+              "homeTeamPercentage": "52",
+              "awayTeamShortName": "MEM",
+              "awayTeamPercentage": "48",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "SVD",
+                "teamID": "3224",
+                "teamFullName": "Seven Districts",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "MEM",
+                "teamID": "3026",
+                "teamFullName": "Mid-East Metals",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661290200000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2653",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "ICC Academy Summer Cup, 2022",
+            "homeTeamName": "TVS",
+            "awayTeamName": "IGM",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215659",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Match 5",
+            "venue": " Abu Dhabi",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "TVS",
+              "homeTeamPercentage": "36",
+              "awayTeamShortName": "IGM",
+              "awayTeamPercentage": "64",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TVS",
+                "teamID": "2937",
+                "teamFullName": "The Vision Shipping",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "IGM",
+                "teamID": "2936",
+                "teamFullName": "Interglobe Marine",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661376600000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": true,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2653",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "ICC Academy Summer Cup, 2022",
+            "homeTeamName": "VB",
+            "awayTeamName": "DDD",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215660",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Match 6",
+            "venue": " Abu Dhabi",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "VB",
+              "homeTeamPercentage": "60",
+              "awayTeamShortName": "DDD",
+              "awayTeamPercentage": "40",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "VB",
+                "teamID": "3220",
+                "teamFullName": "Valley Boyz",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "DDD",
+                "teamID": "3221",
+                "teamFullName": "Dubai Dare Devils",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661463000000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": true,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": true,
+        "seriesID": "2260",
+        "matchType": "T100",
+        "seriesName": "The Hundred, 2022",
+        "matches": [
+          {
+            "seriesID": "2260",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The Hundred, 2022",
+            "homeTeamName": "OVI",
+            "awayTeamName": "BPH",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209689",
+            "matchType": "T100",
+            "statusMessage": "",
+            "matchNumber": "Match 23",
+            "venue": " London",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "OVI",
+              "homeTeamPercentage": "42",
+              "awayTeamShortName": "BPH",
+              "awayTeamPercentage": "58",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "OVI",
+                "teamID": "2041",
+                "teamFullName": "Oval Invincibles",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "BPH",
+                "teamID": "2037",
+                "teamFullName": "Birmingham Phoenix",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661295600000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": true,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2260",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The Hundred, 2022",
+            "homeTeamName": "LNS",
+            "awayTeamName": "WEF",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209691",
+            "matchType": "T100",
+            "statusMessage": "",
+            "matchNumber": "Match 24",
+            "venue": " London",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "LNS",
+              "homeTeamPercentage": "56",
+              "awayTeamShortName": "WEF",
+              "awayTeamPercentage": "44",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "LNS",
+                "teamID": "2038",
+                "teamFullName": "London Spirit",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "WEF",
+                "teamID": "2044",
+                "teamFullName": "Welsh Fire",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661382000000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": true,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2260",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The Hundred, 2022",
+            "homeTeamName": "SOB",
+            "awayTeamName": "TRT",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209693",
+            "matchType": "T100",
+            "statusMessage": "",
+            "matchNumber": "Match 25",
+            "venue": " Southampton",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "SOB",
+              "homeTeamPercentage": "45",
+              "awayTeamShortName": "TRT",
+              "awayTeamPercentage": "55",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "SOB",
+                "teamID": "2042",
+                "teamFullName": "Southern Brave",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "TRT",
+                "teamID": "2043",
+                "teamFullName": "Trent Rockets",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661470200000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": true,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": true,
+        "seriesID": "2662",
+        "matchType": "T20",
+        "seriesName": "Assam T20 Challengers Trophy, 2022",
+        "matches": [
+          {
+            "seriesID": "2662",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "Assam T20 Challengers Trophy, 2022",
+            "homeTeamName": "BHB",
+            "awayTeamName": "BRB",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215882",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Match 1",
+            "venue": " Guwahati",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "BHB",
+              "homeTeamPercentage": "65",
+              "awayTeamShortName": "BRB",
+              "awayTeamPercentage": "35",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "BHB",
+                "teamID": "2801",
+                "teamFullName": "Barak Bravehearts",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "BRB",
+                "teamID": "2798",
+                "teamFullName": "Brahmaputra Boys",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661329800000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2662",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "Assam T20 Challengers Trophy, 2022",
+            "homeTeamName": "KAH",
+            "awayTeamName": "DPR",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215883",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Match 2",
+            "venue": " Guwahati",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "KAH",
+              "homeTeamPercentage": "65",
+              "awayTeamShortName": "DPR",
+              "awayTeamPercentage": "35",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "KAH",
+                "teamID": "2799",
+                "teamFullName": "Kaziranga Heroes",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "DPR",
+                "teamID": "2802",
+                "teamFullName": "Dihing Patkai Riders",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661344200000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2662",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "Assam T20 Challengers Trophy, 2022",
+            "homeTeamName": "MTI",
+            "awayTeamName": "SBC",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215887",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Match 3",
+            "venue": " Guwahati",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "MTI",
+              "homeTeamPercentage": "64",
+              "awayTeamShortName": "SBC",
+              "awayTeamPercentage": "36",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "MTI",
+                "teamID": "2797",
+                "teamFullName": "Manas Tigers",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "SBC",
+                "teamID": "2800",
+                "teamFullName": "Subansiri Champs",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661416200000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": true,
+        "seriesID": "2259",
+        "matchType": "T100",
+        "seriesName": "The Hundred Women, 2022",
+        "matches": [
+          {
+            "seriesID": "2259",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The Hundred Women, 2022",
+            "homeTeamName": "LNS-W",
+            "awayTeamName": "WEF-W",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209676",
+            "matchType": "T100",
+            "statusMessage": "",
+            "matchNumber": "Match 16",
+            "venue": " London",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "LNS-W",
+              "homeTeamPercentage": "67",
+              "awayTeamShortName": "WEF-W",
+              "awayTeamPercentage": "33",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "LNS-W",
+                "teamID": "2030",
+                "teamFullName": "London Spirit Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "WEF-W",
+                "teamID": "2036",
+                "teamFullName": "Welsh Fire Women",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661369400000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": true,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2259",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The Hundred Women, 2022",
+            "homeTeamName": "SOB-W",
+            "awayTeamName": "TRT-W",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209678",
+            "matchType": "T100",
+            "statusMessage": "",
+            "matchNumber": "Match 17",
+            "venue": " Southampton",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "SOB-W",
+              "homeTeamPercentage": "62",
+              "awayTeamShortName": "TRT-W",
+              "awayTeamPercentage": "38",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "SOB-W",
+                "teamID": "2034",
+                "teamFullName": "Southern Brave Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "TRT-W",
+                "teamID": "2035",
+                "teamFullName": "Trent Rockets Women",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661457600000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": true,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2259",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The Hundred Women, 2022",
+            "homeTeamName": "WEF-W",
+            "awayTeamName": "NOS-W",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209680",
+            "matchType": "T100",
+            "statusMessage": "",
+            "matchNumber": "Match 18",
+            "venue": " Cardiff",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "WEF-W",
+                "teamID": "2036",
+                "teamFullName": "Welsh Fire Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "NOS-W",
+                "teamID": "2031",
+                "teamFullName": "Northern Superchargers Women",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661544000000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": true,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": false,
+        "seriesID": "2629",
+        "matchType": "T20",
+        "seriesName": "Maharaja Trophy T20, 2022",
+        "matches": [
+          {
+            "seriesID": "2629",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "Maharaja Trophy T20, 2022",
+            "homeTeamName": "TBC",
+            "awayTeamName": "MW",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215261",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Qualifier 2",
+            "venue": " Bengaluru",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "MW",
+                "teamID": "1489",
+                "teamFullName": "Mysore Warriors",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661454000000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2629",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "Maharaja Trophy T20, 2022",
+            "homeTeamName": "TBC",
+            "awayTeamName": "TBC",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215264",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Final",
+            "venue": " Bengaluru",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661540400000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": true,
+        "seriesID": "2264",
+        "matchType": "ODI",
+        "seriesName": "Royal London One-Day Cup, 2022",
+        "matches": [
+          {
+            "seriesID": "2264",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "Royal London One-Day Cup, 2022",
+            "homeTeamName": "TBC",
+            "awayTeamName": "TBC",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209647",
+            "matchType": "ODI",
+            "statusMessage": "",
+            "matchNumber": "Quarter Final 1",
+            "venue": null,
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661527800000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2264",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "Royal London One-Day Cup, 2022",
+            "homeTeamName": "TBC",
+            "awayTeamName": "TBC",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209648",
+            "matchType": "ODI",
+            "statusMessage": "",
+            "matchNumber": "Quarter Final 2",
+            "venue": null,
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661527800000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2264",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "Royal London One-Day Cup, 2022",
+            "homeTeamName": "TBC",
+            "awayTeamName": "TBC",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "209649",
+            "matchType": "ODI",
+            "statusMessage": "",
+            "matchNumber": "Semi Final 1",
+            "venue": null,
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661873400000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": false,
+        "seriesID": "2663",
+        "matchType": "T20",
+        "seriesName": "FairBreak XI tour of Scotland, 2022",
+        "matches": [
+          {
+            "seriesID": "2663",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "FairBreak XI tour of Scotland, 2022",
+            "homeTeamName": "SC-W",
+            "awayTeamName": "FB-XI",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215884",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "1st T20",
+            "venue": " Raeburn Place",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "SC-W",
+                "teamID": "1132",
+                "teamFullName": "Scotland Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "FB-XI",
+                "teamID": "3228",
+                "teamFullName": "FairBreak XI",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661540400000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2663",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "FairBreak XI tour of Scotland, 2022",
+            "homeTeamName": "SC-W",
+            "awayTeamName": "FB-XI",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215885",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "2nd T20",
+            "venue": " Raeburn Place",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "SC-W",
+                "teamID": "1132",
+                "teamFullName": "Scotland Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "FB-XI",
+                "teamID": "3228",
+                "teamFullName": "FairBreak XI",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661698800000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2663",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "FairBreak XI tour of Scotland, 2022",
+            "homeTeamName": "SC-W",
+            "awayTeamName": "FB-XI",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "215886",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "3rd T20",
+            "venue": " Raeburn Place",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "SC-W",
+                "teamID": "1132",
+                "teamFullName": "Scotland Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "FB-XI",
+                "teamID": "3228",
+                "teamFullName": "FairBreak XI",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661713200000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": false,
+        "seriesID": "2383",
+        "matchType": "T20",
+        "seriesName": "MCA T20 Syawal Peace Cup, 2022",
+        "matches": [
+          {
+            "seriesID": "2383",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "MCA T20 Syawal Peace Cup, 2022",
+            "homeTeamName": "GS",
+            "awayTeamName": "STW",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "212575",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "1st Semi-Final",
+            "venue": " Bangi",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "GS",
+                "teamID": "2916",
+                "teamFullName": "Global Stars",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "STW",
+                "teamID": "3112",
+                "teamFullName": "Sticky Wicket",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661583600000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2383",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "MCA T20 Syawal Peace Cup, 2022",
+            "homeTeamName": "APU",
+            "awayTeamName": "MAF",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "212576",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "2nd Semi-Final",
+            "venue": " Kuala Lumpur",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "APU",
+                "teamID": "3103",
+                "teamFullName": "Asia Pacific University",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "MAF",
+                "teamID": "3109",
+                "teamFullName": "Malaysian Armed Forces",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661587200000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2383",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "MCA T20 Syawal Peace Cup, 2022",
+            "homeTeamName": "TBC",
+            "awayTeamName": "TBC",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "212577",
+            "matchType": "T20",
+            "statusMessage": "",
+            "matchNumber": "Final",
+            "venue": " Bangi",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "TBC",
+                "teamID": "",
+                "teamFullName": "T.B.C.",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661670000000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": true,
+        "seriesID": "2591",
+        "matchType": "",
+        "seriesName": "The 6ixty Women, 2022",
+        "matches": [
+          {
+            "seriesID": "2591",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The 6ixty Women, 2022",
+            "homeTeamName": "TKR-W",
+            "awayTeamName": "BR-W",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "214014",
+            "matchType": "",
+            "statusMessage": "",
+            "matchNumber": "Match 1",
+            "venue": " Basseterre",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TKR-W",
+                "teamID": "3150",
+                "teamFullName": "Trinbago Knight Riders Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "BR-W",
+                "teamID": "3148",
+                "teamFullName": "Barbados Royals Women",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661369400000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2591",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The 6ixty Women, 2022",
+            "homeTeamName": "TKR-W",
+            "awayTeamName": "GUY-W",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "214015",
+            "matchType": "",
+            "statusMessage": "",
+            "matchNumber": "Match 2",
+            "venue": " Basseterre",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "TKR-W",
+                "teamID": "3150",
+                "teamFullName": "Trinbago Knight Riders Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "GUY-W",
+                "teamID": "3149",
+                "teamFullName": "Guyana Amazon Warriors Women",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661378400000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2591",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The 6ixty Women, 2022",
+            "homeTeamName": "BR-W",
+            "awayTeamName": "GUY-W",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "214016",
+            "matchType": "",
+            "statusMessage": "",
+            "matchNumber": "Match 3",
+            "venue": " Basseterre",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "BR-W",
+                "teamID": "3148",
+                "teamFullName": "Barbados Royals Women",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "GUY-W",
+                "teamID": "3149",
+                "teamFullName": "Guyana Amazon Warriors Women",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661387400000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      },
+      {
+        "seriesView": true,
+        "seriesAvailable": true,
+        "seriesID": "2578",
+        "matchType": "",
+        "seriesName": "The 6ixty, 2022",
+        "matches": [
+          {
+            "seriesID": "2578",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The 6ixty, 2022",
+            "homeTeamName": "GUY",
+            "awayTeamName": "SLK",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "213716",
+            "matchType": "",
+            "statusMessage": "",
+            "matchNumber": "Match 1",
+            "venue": " Basseterre",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "GUY",
+                "teamID": "1407",
+                "teamFullName": "Guyana Amazon Warriors",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "SLK",
+                "teamID": "1406",
+                "teamFullName": "Saint Lucia Kings",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661455800000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2578",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The 6ixty, 2022",
+            "homeTeamName": "JAM",
+            "awayTeamName": "SKN",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "213718",
+            "matchType": "",
+            "statusMessage": "",
+            "matchNumber": "Match 2",
+            "venue": " Basseterre",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "JAM",
+                "teamID": "1410",
+                "teamFullName": "Jamaica Tallawahs",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "SKN",
+                "teamID": "1480",
+                "teamFullName": "St Kitts and Nevis Patriots",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661464800000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          },
+          {
+            "seriesID": "2578",
+            "league": "Domestic",
+            "currentinningsNo": "1",
+            "currentInningsTeamName": "",
+            "seriesName": "The 6ixty, 2022",
+            "homeTeamName": "BR",
+            "awayTeamName": "TKR",
+            "toss": null,
+            "startEndDate": null,
+            "matchStatus": "upcoming",
+            "matchID": "213719",
+            "matchType": "",
+            "statusMessage": "",
+            "matchNumber": "Match 3",
+            "venue": " Basseterre",
+            "matchResult": "",
+            "teamsWinProbability": {
+              "homeTeamShortName": "",
+              "homeTeamPercentage": "",
+              "awayTeamShortName": "",
+              "awayTeamPercentage": "",
+              "tiePercentage": ""
+            },
+            "matchScore": [
+              {
+                "teamShortName": "BR",
+                "teamID": "1405",
+                "teamFullName": "Barbados Royals",
+                "teamScore": []
+              },
+              {
+                "teamShortName": "TKR",
+                "teamID": "1408",
+                "teamFullName": "Trinbago Knight Riders",
+                "teamScore": []
+              }
+            ],
+            "startDate": "1661482800000",
+            "playerID": "",
+            "playing11Status": false,
+            "probable11Status": false,
+            "playerOfTheMatch": "",
+            "playerofTheMatchTeamShortName": "",
+            "firstInningsTeamID": "",
+            "secondInningsTeamID": "",
+            "thirdInningsTeamID": "",
+            "fourthInningsTeamID": ""
+          }
+        ]
+      }
+    ]
+  }
+}
