@@ -2,6 +2,7 @@
   "data": {
     "newSchedule": [
       {
+        "id":1,
         "seriesView": true,
         "seriesAvailable": true,
         "seriesID": "2653",
@@ -156,8 +157,10 @@
             "fourthInningsTeamID": ""
           }
         ]
+        
       },
       {
+        "id":2,
         "seriesView": true,
         "seriesAvailable": true,
         "seriesID": "2260",
@@ -314,6 +317,7 @@
         ]
       },
       {
+        "id":3,
         "seriesView": true,
         "seriesAvailable": true,
         "seriesID": "2662",
@@ -470,6 +474,7 @@
         ]
       },
       {
+        "id":4,
         "seriesView": true,
         "seriesAvailable": true,
         "seriesID": "2259",
@@ -626,6 +631,7 @@
         ]
       },
       {
+        "id":5,
         "seriesView": true,
         "seriesAvailable": false,
         "seriesID": "2629",
@@ -733,6 +739,7 @@
         ]
       },
       {
+        "id":6,
         "seriesView": true,
         "seriesAvailable": true,
         "seriesID": "2264",
@@ -889,6 +896,7 @@
         ]
       },
       {
+        "id":7,
         "seriesView": true,
         "seriesAvailable": false,
         "seriesID": "2663",
@@ -1045,6 +1053,7 @@
         ]
       },
       {
+        "id":8,
         "seriesView": true,
         "seriesAvailable": false,
         "seriesID": "2383",
@@ -1201,6 +1210,7 @@
         ]
       },
       {
+        "id":9,
         "seriesView": true,
         "seriesAvailable": true,
         "seriesID": "2591",
@@ -1357,6 +1367,7 @@
         ]
       },
       {
+        "id":10,
         "seriesView": true,
         "seriesAvailable": true,
         "seriesID": "2578",
