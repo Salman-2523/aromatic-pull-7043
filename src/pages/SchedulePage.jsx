@@ -4,7 +4,7 @@ import { useDispatch, useSelector } from "react-redux";
 import SheduleTabs from "../components/shedulePage/SheduleTabs";
 import { getSheduleApi } from "../redux/sheduleReducer/actions";
 
-const ShedulePage = () => {
+const SchedulePage = () => {
   const dispatch = useDispatch();
   const { data } = useSelector((state) => state.sheduleReducer);
 
@@ -69,4 +69,4 @@ const ShedulePage = () => {
   );
 };
 
-export default ShedulePage;
+export default SchedulePage;

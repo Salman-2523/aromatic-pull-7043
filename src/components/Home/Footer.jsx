@@ -1,5 +1,5 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
-import "../styles/footer.css";
+import "../../styles/footer.css";
 export const Footer = () => {
   return (
     <Box w={"100%"} h={"114px"} bg={"#172132"} className="footer-container">

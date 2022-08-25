@@ -1,12 +1,12 @@
-
-
 import { Routes, Route } from "react-router-dom";
-import { Cryclytics } from "../pages/Cryclytics";
+import CriclyticsPage from "../pages/CriclyticsPage";
 import { FantasyCenter } from "../pages/FantasyCenter";
+
 import { HomePage } from "../pages/HomePage";
 import { News } from "../pages/News";
-import { Schedule } from "../pages/Schedule";
+
 import { Series } from "../pages/Series";
+import SchedulePage from "../pages/SchedulePage";
 export const MainRoutes = () => {
   return (
     <Routes>
@@ -15,14 +15,12 @@ export const MainRoutes = () => {
         path="/fantasy-research-center"
         element={<FantasyCenter />}
       ></Route>
-      <Route path="/criclytics" element={<Cryclytics />}></Route>
-      <Route path="/schedule" element={<Schedule />}></Route>
+      <Route path="/criclytics" element={<CriclyticsPage />}></Route>
+      <Route path="/schedule" element={<SchedulePage />}></Route>
       <Route path="/series" element={<Series />}></Route>
       <Route path="/news" element={<News />}></Route>
     </Routes>
   );
 };
 
-
 export default MainRoutes;
-

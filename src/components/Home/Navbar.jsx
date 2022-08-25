@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import "../styles/nav.css";
+import "../../styles/nav.css";
 
 export const Navbar = () => {
   return (
@@ -18,7 +18,7 @@ export const Navbar = () => {
               <p>Fantasy Center</p>
             </div>
           </Link>
-          <Link to="/cryclytics">
+          <Link to="/criclytics">
             <div className="item">
               <img
                 src="https://www.cricket.com/svgs/icons/criclytics-icon.svg"

@@ -1,5 +1,5 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
-import "../styles/hero.css";
+import "../../styles/hero.css";
 import { MainCard } from "./MainCard";
 export const Main = () => {
   return (
