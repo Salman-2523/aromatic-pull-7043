@@ -1,12 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
-import CriclyticsPage from './pages/CriclyticsPage';
-import ShedulePage from './pages/ShedulePage';
+
+
+import "./App.css";
+import { MainRoutes } from "./routes/MainRoutes";
+
 
 function App() {
   return (
     <div className="App">
-     <ShedulePage/>
+
+
+      <MainRoutes />
+
+     
+
+
     </div>
   );
 }
