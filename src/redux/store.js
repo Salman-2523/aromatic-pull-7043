@@ -1,10 +1,12 @@
 import { applyMiddleware, combineReducers, compose, legacy_createStore } from "redux";
 import thunk from "redux-thunk";
+import { criclyticsReducer } from "./criclyticsReducer/reducer";
 import { sheduleReducer } from "./sheduleReducer/reducer";
 
 
 const rootReducer=combineReducers({
     sheduleReducer:sheduleReducer,
+    criclyticsReducer:criclyticsReducer
 
 });
 
