@@ -1,4 +1,5 @@
 
+
 import { Routes, Route } from "react-router-dom";
 import { Cryclytics } from "../pages/Cryclytics";
 import { FantasyCenter } from "../pages/FantasyCenter";
@@ -21,3 +22,7 @@ export const MainRoutes = () => {
     </Routes>
   );
 };
+
+
+export default MainRoutes;
+
