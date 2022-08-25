@@ -3,7 +3,7 @@
     width: 65%;
     margin: auto;
     background-color: hsl(0,0%,0%);
-    height: 1000px;
+   
     margin-top: 50px;
     
 }
@@ -40,6 +40,8 @@
     background-color: rgba(51, 51, 51, 0.871);
     
 }
+
+
 .crd:hover{
     cursor: pointer;
 }
@@ -87,6 +89,14 @@
     font-style: normal;
     color:#999999 ;
     margin-top: 7px;
+   
+}
+i{
+  color: rgba(208, 81, 81, 0.778);  
+}
+
+.locanddate>span{
+    margin-right: 5px;
 }
 
 .vs{
@@ -111,7 +121,7 @@
 
 
 .hhhhh{
-    color: rgba(199, 30, 30, 0.575);
+    color: gray;
     text-align: left;
     margin-left: 10px;
 }
