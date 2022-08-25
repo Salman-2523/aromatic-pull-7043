@@ -2,6 +2,9 @@ import React from 'react';
 import "./Fantasy.css"
 import axios from 'axios';
 import {useState,useEffect} from 'react';
+import Comolete from './Comolete';
+import FantasyVideos from './FantasyVideos';
+import FantsyNews from './FantsyNews';
 
 const Fantansy = () => {
 
@@ -53,6 +56,9 @@ const Fantansy = () => {
      })}
      </div>
      <h4 className='hhhhh'>Completed Matches</h4>
+     <Comolete/><br/>
+     <FantsyNews/><br/>
+     <FantasyVideos/>
     </div>
   );
 }
