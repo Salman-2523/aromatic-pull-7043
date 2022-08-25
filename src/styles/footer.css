@@ -1,0 +1,42 @@
+.footer-container{
+    margin-top:1rem;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    
+}
+.footer{
+    /* border:1px solid red; */
+    display: flex;
+    /* justify-content:center; */
+    /* align-items:center; */
+    justify-content:space-between;
+    align-items:center
+}
+.footer-about > P {
+    color:#777;
+    font-size: 12px;
+    
+
+}
+.footer-about{
+    display: flex;
+    width: 320px;
+    /* border:1px solid red; */
+    justify-content:space-around;
+    
+}
+.footer-icon-container{
+    display: flex;
+    /* border:1px solid red; */
+    width:80px;
+    justify-content:space-between;
+
+
+}
+.icon-text-container{
+    display: flex;
+    width:200px;
+    /* border:1px solid red; */
+    justify-content:space-between;
+}

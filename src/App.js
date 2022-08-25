@@ -1,12 +1,15 @@
 
-import './App.css';
-import Fantansy from './FantasyCenter/Fantasy';
+import "./App.css";
+import { MainRoutes } from "./routes/MainRoutes";
 
 function App() {
   return (
     <div className="App">
+
+      <MainRoutes />
+
      
-     <Fantansy/>
+
     </div>
   );
 }
