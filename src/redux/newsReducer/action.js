@@ -15,15 +15,15 @@ import axios from "axios";
 // 	console.error(error);
 // });
 
-const getData = (dispatch) => {
+export const getData =()=> async(dispatch) => {
     dispatch({type:types.GET_NEWS_REQUEST})
   return axios.get("http://localhost:8080/newsdata")
               .then((r) => {
-                console.log(r.data)
-                 dispatch({type:types.GET_NEWS_SUCCESS,payload:r.data})
+                // console.log(r.data)
+                return dispatch({type:types.GET_NEWS_SUCCESS,payload:r.data})
               }) 
               .catch(e => {
-                return dispatch({type:types.GET_NEWS_FAILURE,payload:e})
+                return dispatch({type:types.GET_NEWS_FAILURE})
               }) 
 }
 
@@ -39,4 +39,3 @@ const getData = (dispatch) => {
 // }
 
 
-export {getData}
