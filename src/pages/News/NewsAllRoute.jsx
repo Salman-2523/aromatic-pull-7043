@@ -11,7 +11,7 @@ const NewsAllRoute = () => {
     <div>
       <h2>Route</h2>
       <Routes>
-        <Route  path="/" element={<LatestNews/>} />
+        <Route  path="/latest" element={<LatestNews/>} />
    <Route  path='/news' element={<AllNews/>} />
    <Route path='/thisday' element={<ThisDay/>} />
        <Route path="/match" element={<MatchRelated />} />
