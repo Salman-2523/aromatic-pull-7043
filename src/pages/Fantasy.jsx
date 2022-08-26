@@ -1,10 +1,10 @@
 import React from 'react';
-import "./Fantasy.css"
+import "../styles/Fantasy.css";
 import axios from 'axios';
 import {useState,useEffect} from 'react';
-import Comolete from './Comolete';
-import FantasyVideos from './FantasyVideos';
-import FantsyNews from './FantsyNews';
+import Comolete from '../components/FantasyCenter/Comolete';
+import FantasyVideos from '../components/FantasyCenter/FantasyVideos';
+import FantsyNews from '../components/FantasyCenter/FantsyNews'
 
 const Fantansy = () => {
 

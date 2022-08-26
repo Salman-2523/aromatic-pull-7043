@@ -1,5 +1,5 @@
 import React from 'react';
-import "./Complete.css"
+import "../../styles/Complete.css";
 import axios from 'axios';
 import {useState,useEffect} from 'react';
 

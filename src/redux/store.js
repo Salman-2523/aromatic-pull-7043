@@ -4,11 +4,12 @@ import { applyMiddleware, combineReducers, compose, legacy_createStore } from "r
 import thunk from "redux-thunk";
 import { criclyticsReducer } from "./criclyticsReducer/reducer";
 import { sheduleReducer } from "./sheduleReducer/reducer";
-
+import {seriesReducer} from './seriesreducer/reducer'
 
 const rootReducer=combineReducers({
     sheduleReducer:sheduleReducer,
-    criclyticsReducer:criclyticsReducer
+    criclyticsReducer:criclyticsReducer,
+    seriesReducer:seriesReducer
 
 });
 
