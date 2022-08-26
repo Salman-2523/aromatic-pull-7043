@@ -1,12 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
-import News from './components/News/News';
+
+
+
+import "./App.css";
+import { MainRoutes } from "./routes/MainRoutes";
+
 
 function App() {
   return (
     <div className="App">
-    <News />
-    
+
+
+
+      <MainRoutes />
+
+     
+
+
     </div>
   );
 }
