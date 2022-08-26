@@ -4,13 +4,12 @@ import { useDispatch } from "react-redux";
 import {getData} from "../redux/seriesreducer/action";
 
 const All = ({item}) => {
-    // const dispatch = useDispatch()
-    // console.log(item)
+    
 
-    const dispatch = useDispatch()
-  useEffect(() => {
-    dispatch(getData);
-},[])
+//     const dispatch = useDispatch()
+//   useEffect(() => {
+//     dispatch(getData);
+// },[])
 
 
    
