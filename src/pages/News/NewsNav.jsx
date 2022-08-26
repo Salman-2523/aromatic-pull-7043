@@ -13,16 +13,16 @@ const NewsNav = () => {
             <NavLink  to="/" >
               Latest 
             </NavLink>
-            <NavLink >
+            <NavLink to="/news">
               News 
             </NavLink>
-            <NavLink >
+            <NavLink to="/thisday">
               On This Day
             </NavLink>
-            <NavLink >
+            <NavLink to="/match">
               Match Related
             </NavLink>
-            <NavLink >
+            <NavLink to="/feature">
               Features
             </NavLink>
          </div>
