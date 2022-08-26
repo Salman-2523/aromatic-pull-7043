@@ -1,5 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
+import "./NewsNav.css"
 
 const NewsNav = () => {
 
@@ -9,7 +10,7 @@ const NewsNav = () => {
         <h1>latest News</h1>
       </div>
         
-         <div>
+         <div className='fw13-nav-link'>
             <NavLink  to="/" >
               Latest 
             </NavLink>
