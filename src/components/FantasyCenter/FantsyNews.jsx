@@ -1,5 +1,5 @@
 import React from 'react';
-import "./FantsyNews.css"
+import "../../styles/FantsyNews.css";
 
 const FantsyNews = () => {
   return (

@@ -6,7 +6,7 @@ const initialState = {
     isError:false
 }
 
-const reducer = (state=initialState,action) => {
+export const seriesReducer = (state=initialState,action) => {
     const {type,payload} = action;
     console.log(payload)
     switch(type){
@@ -49,4 +49,3 @@ const reducer = (state=initialState,action) => {
     }
 }
 
-export {reducer};

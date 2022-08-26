@@ -1,5 +1,5 @@
 import React from 'react';
-import "./FantasyVideos.css"
+import "../../styles/FantasyVideos.css"
 
 
 const FantasyVideos = () => {

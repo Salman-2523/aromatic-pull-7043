@@ -10,10 +10,11 @@ import { Womens } from "../components/Womens";
 import {useDispatch,useSelector} from "react-redux";
 import {useEffect} from "react";
 import {getData,getUpInter} from "../redux/seriesreducer/action"
+import Series from "./Series";
 
 const MainRoutes = () => {
     const dispatch = useDispatch();
-    const upcomingAllData = useSelector(store => store.data)
+    const upcomingAllData = useSelector(store => store.seriesReducer.data)
     console.log(upcomingAllData);
 
 //    function getAll() {
@@ -36,7 +37,7 @@ const MainRoutes = () => {
                    <Route path="all" element={ 
                      upcomingAllData?.map((item)=>{
                             // console.log(item.match)
-                        return    <All key={item.id} item={item} />
+                        return    <Series key={item.id} item={item} />
                         })
                         } />
                    <Route path="international" element={

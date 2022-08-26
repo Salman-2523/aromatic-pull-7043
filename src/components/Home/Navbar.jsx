@@ -29,7 +29,7 @@ export const Navbar = () => {
               <p>Cryclytics</p>
             </div>
           </Link>
-          <Link to="/fantasy-research-center">
+          <Link to="/schedule">
             <div className="item">
               <img
                 src="https://www.cricket.com/svgs/icons/schedule-icon.svg"
@@ -40,7 +40,7 @@ export const Navbar = () => {
               <p>Schedule</p>
             </div>
           </Link>
-          <Link to="/fantasy-research-center">
+          <Link to="/series">
             <div className="item">
               <img
                 src="https://www.cricket.com/svgs/icons/series-icon.svg"
@@ -51,7 +51,7 @@ export const Navbar = () => {
               <p>Series</p>
             </div>
           </Link>
-          <Link to="/fantasy-research-center">
+          <Link to="/news">
             <div className="item">
               <img
                 src="https://www.cricket.com/svgs/icons/news-and-articles-icon.svg"

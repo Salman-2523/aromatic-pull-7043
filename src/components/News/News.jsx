@@ -1,7 +1,7 @@
 import React from 'react'
 import NewsAllRoute from '../../pages/News/NewsAllRoute'
 import NewsNav from '../../pages/News/NewsNav'
- import "./News.css"
+ import "../../styles/News.css"
 const News = () => {
   return (
     <div className='fw13-main-container'>
