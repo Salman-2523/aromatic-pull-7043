@@ -11,11 +11,11 @@ const NewsAllRoute = () => {
     <div>
       <h2>Route</h2>
       <Routes>
-        <Route  path="/latest" element={<LatestNews/>} />
-   <Route  path='/news' element={<AllNews/>} />
-   <Route path='/thisday' element={<ThisDay/>} />
-       <Route path="/match" element={<MatchRelated />} />
-       <Route path='/feature' element={<Feature />} />
+        <Route exact path="/latest" element={<LatestNews/>} />
+   <Route exact path='/news/*' element={<AllNews/>} />
+   <Route exact path='/thisday' element={<ThisDay/>} />
+       <Route exact path="/match" element={<MatchRelated />} />
+       <Route exact path='/feature' element={<Feature />} />
 
       </Routes>
     </div>

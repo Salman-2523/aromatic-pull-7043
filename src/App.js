@@ -2,7 +2,7 @@ import "./App.css";
 // import { Footer } from "./components/Home/Footer";
 // import { Navbar } from "./components/Home/Navbar";
 // import { MainRoutes } from "./routes/MainRoutes";
-// import News from "./components/News/News";
+import News from "./components/News/News";
 //import { MainRoutes } from "./routes/MainRoutes";
 import { Footer } from "./components/Home/Footer";
 import { Navbar } from "./components/Home/Navbar";
@@ -13,10 +13,10 @@ function App() {
 {/* <Navbar />
       <Footer /> */}
 {/* <MainRoutes /> */}
-{/* <News /> */}
-<Navbar />
+<News />
+{/* <Navbar />
 <MainRoutes />
-<Footer />
+<Footer /> */}
 </div>
 
   );

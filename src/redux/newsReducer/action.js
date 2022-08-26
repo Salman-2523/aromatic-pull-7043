@@ -1,14 +1,14 @@
 import * as types from "./actionTypes";
 import axios from "axios";
-const options = {
-  method: 'GET',
-  url: 'https://odds.p.rapidapi.com/v4/sports',
-  params: {all: 'true'},
-  headers: {
-    'X-RapidAPI-Key': 'b328df544emshe7050542483f3adp1c5717jsnf3b9877a820d',
-    'X-RapidAPI-Host': 'odds.p.rapidapi.com'
-  }
-};
+// const options = {
+//   method: 'GET',
+//   url: 'https://odds.p.rapidapi.com/v4/sports',
+//   params: {all: 'true'},
+//   headers: {
+//     'X-RapidAPI-Key': 'b328df544emshe7050542483f3adp1c5717jsnf3b9877a820d',
+//     'X-RapidAPI-Host': 'odds.p.rapidapi.com'
+//   }
+// };
 // axios.request(options).then(function (response) {
 // 	console.log(response.data);
 // }).catch(function (error) {
@@ -17,7 +17,7 @@ const options = {
 
 const getData = (dispatch) => {
     dispatch({type:types.GET_NEWS_REQUEST})
-  return axios.request(options)({url})
+  return axios.get("http://localhost:8080/newsdata")
               .then((r) => {
                 console.log(r.data)
                  dispatch({type:types.GET_NEWS_SUCCESS,payload:r.data})
