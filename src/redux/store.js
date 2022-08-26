@@ -1,8 +1,18 @@
-import {legacy_createStore,applyMiddleware} from "redux";
+
+
+import { applyMiddleware, combineReducers, compose, legacy_createStore } from "redux";
 import thunk from "redux-thunk";
+import { criclyticsReducer } from "./criclyticsReducer/reducer";
+import { sheduleReducer } from "./sheduleReducer/reducer";
 
-import {reducer} from  "./seriesreducer/reducer";
 
-const store = legacy_createStore(reducer,applyMiddleware(thunk));
+const rootReducer=combineReducers({
+    sheduleReducer:sheduleReducer,
+    criclyticsReducer:criclyticsReducer
 
-export {store};
+});
+
+const combineEnhancer= window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__||compose;
+
+export const store=legacy_createStore(rootReducer, combineEnhancer(applyMiddleware(thunk)));
+
