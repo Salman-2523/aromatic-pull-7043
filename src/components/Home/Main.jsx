@@ -4,8 +4,8 @@ import { MainCard } from "./MainCard";
 export const Main = () => {
   return (
     <Box className="hero-container">
-      <Box border="1px solid black" w="68%" h="2300px">
-        <Box w="100%" h="366px" border="1px solid black" marginBottom="1rem">
+      <Box  w="68%" h="2300px" className="hero">
+        <Box w="100%" h="366px"  marginBottom="1rem">
           <Flex w="100%" bg="#172132" h="43px" justifyContent={"space-between"}>
             <Flex
               w="120px"
@@ -309,7 +309,8 @@ export const Main = () => {
             imageUrl={
               "https://images-cricketcom.imgix.net/news-1661348574024?auto=compress&dpr=2&w=1&h=200"
             }
-            heading = {'I know where my game stands:Kohli'} subHeading = {'The former India skipper has gone without an international hundred across formats for nearly three years now'}
+            heading = {'I know where my game stands:Kohli'} 
+            subHeading = {'The former India skipper has gone without an international hundred across formats for nearly three years now'}
           />
           <MainCard
             imageUrl={
