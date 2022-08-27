@@ -3,7 +3,6 @@ import CriclyticsPage from "../pages/CriclyticsPage";
 
 import { HomePage } from "../pages/HomePage";
 
-
 import Series from "../pages/Series";
 import SchedulePage from "../pages/SchedulePage";
 import Fantansy from "../pages/Fantasy";
@@ -33,45 +32,37 @@ export const MainRoutes = () => {
 
       <Route path="/series" element={<Series />}></Route>
       <Route path="/news/*" element={<News />}>
-      <Route exact path="latest" element={<LatestNews/>} />
-      <Route exact path='news' element={<AllNews/>} />
-      <Route exact path='thisday' element={<ThisDay/>} />
-      <Route exact path="match" element={<MatchRelated />} />
-      <Route exact path='feature' element={<Feature />} />
-      
+        <Route exact path="latest" element={<LatestNews />} />
+        <Route exact path="news" element={<AllNews />} />
+        <Route exact path="thisday" element={<ThisDay />} />
+        <Route exact path="match" element={<MatchRelated />} />
+        <Route exact path="feature" element={<Feature />} />
       </Route>
-    
 
-      
       <Route path="/series" element={<Series />}>
-        
-        
-        <Route path=":test" element={<Upcoming />}>
-          <Route path="all"    element={<All />} />
+        <Route path="upcoming" element={<Upcoming />}>
+          <Route path="all" element={<All />} />
           <Route path="international" element={<International />} />
           <Route path="domestic" element={<Domestic />} />
           <Route path="womens" element={<Womens />} />
-         </Route> 
+        </Route>
 
         <Route path="ongoing" element={<Ongoing />}>
-        <Route path="all" element={<All />} />
+          <Route path="all" element={<All />} />
           <Route path="international" element={<International />} />
           <Route path="domestic" element={<Domestic />} />
           <Route path="womens" element={<Womens />} />
-        </Route> 
+        </Route>
 
         <Route path="completed" element={<Completed />}>
-        <Route path="all" element={<All />} />
+          <Route path="all" element={<All />} />
           <Route path="international" element={<International />} />
           <Route path="domestic" element={<Domestic />} />
           <Route path="womens" element={<Womens />} />
-         </Route>  
-      
+        </Route>
       </Route>
-      
-      
-      <Route path="/news" element={<News />}></Route>
 
+      <Route path="/news" element={<News />}></Route>
     </Routes>
   );
 };

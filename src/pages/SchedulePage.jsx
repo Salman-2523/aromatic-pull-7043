@@ -18,7 +18,7 @@ const SchedulePage = () => {
 
     <Container minWidth="70%"  >
       <Heading textAlign="left" fontSize="2xl">
-        Shedule
+        Schedule
       </Heading>
       <SheduleTabs />
       <Box >
