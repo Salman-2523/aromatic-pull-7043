@@ -11,7 +11,7 @@ const NewsNav = () => {
       </div>
         
          <div className='fw13-nav-link'>
-            <NavLink  to="/" >
+            <NavLink  to="/latest" >
               Latest 
             </NavLink>
             <NavLink to="/news">

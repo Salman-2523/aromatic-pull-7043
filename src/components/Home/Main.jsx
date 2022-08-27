@@ -309,7 +309,8 @@ export const Main = () => {
             imageUrl={
               "https://images-cricketcom.imgix.net/news-1661348574024?auto=compress&dpr=2&w=1&h=200"
             }
-            heading = {'I know where my game stands:Kohli'} subHeading = {'The former India skipper has gone without an international hundred across formats for nearly three years now'}
+            heading = {'I know where my game stands:Kohli'} 
+            subHeading = {'The former India skipper has gone without an international hundred across formats for nearly three years now'}
           />
           <MainCard
             imageUrl={
