@@ -1,6 +1,6 @@
 import { Box, Flex, Image, Text } from "@chakra-ui/react";
 // {team,imageUrl,day,timeLeft,time}
-export const SliderCard = () => {
+export const SliderCard = ({day,firstImgUrl,secondImgUrl,time,timeLeft}) => {
   return (
     <Box w="85%" h="230px">
       <Box
@@ -19,12 +19,12 @@ export const SliderCard = () => {
       >
         <Box>
           <Image
-            src="https://images.cricket.com/teams/3_flag_safari.png"
+            src={firstImgUrl}
             height="16px"
             width="22.2px"
           />
         </Box>
-        <Text fontSize="15px">Today</Text>
+        <Text fontSize="15px">{day}</Text>
       </Flex>
       <Flex
         w="50%"
@@ -34,15 +34,15 @@ export const SliderCard = () => {
       >
         <Box>
           <Image
-            src="https://images.cricket.com/teams/7_flag_safari.png"
+            src={secondImgUrl}
             height="14px"
             width="22.2px"
           />
         </Box>
-        <Text fontSize="15px">3:30 PM IST</Text>
+        <Text fontSize="15px">{time}</Text>
       </Flex>
       <Text textAlign={"left"} w="50%" h="24px" marginBottom="2rem" fontSize="10px">
-        4 hrs 15 mins to toss
+        {timeLeft}
       </Text>
       <Flex w="100%" h="35px" justifyContent={"space-between"}>
         <Box border="1px solid gray" w="50%">
