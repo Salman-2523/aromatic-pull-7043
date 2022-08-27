@@ -15,7 +15,7 @@ const Navbar = () => {
     }
     return(
         <div>
-         <NavLink style={({isActive}) => 
+              <NavLink style={({isActive}) => 
             isActive ? activeStyle : baseStyle
          } to="/upcoming">UPCOMING</NavLink>
          <NavLink style={({isActive}) => 
