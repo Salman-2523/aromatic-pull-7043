@@ -1,10 +1,27 @@
 
-import React from 'react'
+import React, { useEffect } from 'react'
+import { useSelector, useDispatch } from 'react-redux'
+import { getData } from '../../redux/newsReducer/action'
+import SingelPage from './SingelPage'
 
 const ThisDay = () => {
+  const dispatch=useDispatch()
+  const data=useSelector((store)=>store.newsReducer.data)
+  console.log("data", data)
+  useEffect(()=>{
+ if(data.length===0)
+ {
+  dispatch(getData())
+ }
+  },[])
+
   return (
-    <div>
-      <h1>This Day</h1>
+    <div className='fw_13-container'>
+    {
+      data.map((item)=>{
+        return  <SingelPage item={item}  key={item.id}/>
+      })
+    }
     </div>
   )
 }
