@@ -7,12 +7,25 @@ import {
   Spacer,
   Text,
 } from "@chakra-ui/react";
-import React from "react";
+import React, { useState } from "react";
+import { useSearchParams } from "react-router-dom";
 import MatchCard from "./MatchCard";
 
 const MatchField = ({ data }) => {
+  const [searchParams]=useSearchParams();
+  const sortBy=searchParams.get('sortBy');
+  const league=searchParams.get('league');
+    const [status,setStatus]=useState('upcoming');
+ 
+
+  const sheduleData=data.matches.filter(data=>
+    data.matchStatus==(sortBy=="UPCOMING"?'upcoming':sortBy=='LIVE'?'live':sortBy=='RESULT'?'completed':'')&&(league=='All'?(data.league=='International'||'Domestic'):data.league==league));
+  console.log(sheduleData);
+  console.log(sortBy);
+
   return (
-    <Box margin="20px">
+    <>
+    {sheduleData.length!=0?<Box margin="20px" bg='white'padding='10px'>
       <Flex gap="50px" boxShadow="base" padding="15px" textAlign="center">
         {" "}
         <Box
@@ -24,7 +37,7 @@ const MatchField = ({ data }) => {
           padding="15px 10px 15px 10px"
           borderRadius="5px"
           boxShadow="md"
-        >
+          >
           {data.matches[0].league == "Domestic" ? "DOM" : "INT"}
         </Box>{" "}
         <Heading size="md">{data.seriesName}</Heading> <Spacer />
@@ -37,7 +50,8 @@ const MatchField = ({ data }) => {
           return <MatchCard key={i} data={data} />;
         })}
       </Flex>
-    </Box>
+    </Box>:''}
+          </>
   );
 };
 

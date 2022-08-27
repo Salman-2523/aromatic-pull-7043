@@ -1703,1416 +1703,3779 @@
         }
       ]
     },
-    
-          {
-            "id":11,
-            "seriesView": true,
-            "seriesAvailable": true,
-            "seriesID": "2637",
-            "matchType": "T20",
-            "seriesName": "Asia Cup, 2022",
-            "matches": [
-              {
-                "seriesID": "2637",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Asia Cup, 2022",
-                "homeTeamName": "SL",
-                "awayTeamName": "AFG",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215301",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 1",
-                "venue": " Dubai",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "SL",
-                  "homeTeamPercentage": "54",
-                  "awayTeamShortName": "AFG",
-                  "awayTeamPercentage": "46",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "SL",
-                    "teamID": "8",
-                    "teamFullName": "Sri Lanka",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "AFG",
-                    "teamID": "1188",
-                    "teamFullName": "Afghanistan",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1661628600000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": true,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2637",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Asia Cup, 2022",
-                "homeTeamName": "IND",
-                "awayTeamName": "PAK",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215316",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 2",
-                "venue": " Dubai",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "IND",
-                  "homeTeamPercentage": "59",
-                  "awayTeamShortName": "PAK",
-                  "awayTeamPercentage": "41",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "IND",
-                    "teamID": "4",
-                    "teamFullName": "India",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "PAK",
-                    "teamID": "6",
-                    "teamFullName": "Pakistan",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1661715000000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": true,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2637",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Asia Cup, 2022",
-                "homeTeamName": "BAN",
-                "awayTeamName": "AFG",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215317",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 3",
-                "venue": " Sharjah",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "BAN",
-                    "teamID": "2",
-                    "teamFullName": "Bangladesh",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "AFG",
-                    "teamID": "1188",
-                    "teamFullName": "Afghanistan",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1661887800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": true,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+
+    {
+      "id": 11,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2637",
+      "matchType": "T20",
+      "seriesName": "Asia Cup, 2022",
+      "matches": [
+        {
+          "seriesID": "2637",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Asia Cup, 2022",
+          "homeTeamName": "SL",
+          "awayTeamName": "AFG",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215301",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 1",
+          "venue": " Dubai",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "SL",
+            "homeTeamPercentage": "54",
+            "awayTeamShortName": "AFG",
+            "awayTeamPercentage": "46",
+            "tiePercentage": ""
           },
-          {"id":12,
-            "seriesView": true,
-            "seriesAvailable": false,
-            "seriesID": "2521",
-            "matchType": "ODI",
-            "seriesName": "Zimbabwe tour of Australia, 2022",
-            "matches": [
-              {
-                "seriesID": "2521",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Zimbabwe tour of Australia, 2022",
-                "homeTeamName": "AUS",
-                "awayTeamName": "ZIM",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "212990",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "1st ODI",
-                "venue": " Townsville",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "AUS",
-                  "homeTeamPercentage": "74",
-                  "awayTeamShortName": "ZIM",
-                  "awayTeamPercentage": "26",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "AUS",
-                    "teamID": "1",
-                    "teamFullName": "Australia",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "ZIM",
-                    "teamID": "10",
-                    "teamFullName": "Zimbabwe",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1661663400000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2521",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Zimbabwe tour of Australia, 2022",
-                "homeTeamName": "AUS",
-                "awayTeamName": "ZIM",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "212991",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "2nd ODI",
-                "venue": " Townsville",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "AUS",
-                    "teamID": "1",
-                    "teamFullName": "Australia",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "ZIM",
-                    "teamID": "10",
-                    "teamFullName": "Zimbabwe",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1661922600000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2521",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Zimbabwe tour of Australia, 2022",
-                "homeTeamName": "AUS",
-                "awayTeamName": "ZIM",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "212992",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "3rd ODI",
-                "venue": " Townsville",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "AUS",
-                    "teamID": "1",
-                    "teamFullName": "Australia",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "ZIM",
-                    "teamID": "10",
-                    "teamFullName": "Zimbabwe",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662181800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+          "matchScore": [
+            {
+              "teamShortName": "SL",
+              "teamID": "8",
+              "teamFullName": "Sri Lanka",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "AFG",
+              "teamID": "1188",
+              "teamFullName": "Afghanistan",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1661628600000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2637",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Asia Cup, 2022",
+          "homeTeamName": "IND",
+          "awayTeamName": "PAK",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215316",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 2",
+          "venue": " Dubai",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "IND",
+            "homeTeamPercentage": "59",
+            "awayTeamShortName": "PAK",
+            "awayTeamPercentage": "41",
+            "tiePercentage": ""
           },
-          {"id":13,
-            "seriesView": true,
-            "seriesAvailable": true,
-            "seriesID": "2648",
-            "matchType": "T20",
-            "seriesName": "Nepal tour of Kenya, 2022",
-            "matches": [
-              {
-                "seriesID": "2648",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Nepal tour of Kenya, 2022",
-                "homeTeamName": "KEN",
-                "awayTeamName": "NEP",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215557",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "3rd T20I",
-                "venue": " Nairobi",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "KEN",
-                  "homeTeamPercentage": "36",
-                  "awayTeamShortName": "NEP",
-                  "awayTeamPercentage": "64",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "KEN",
-                    "teamID": "14",
-                    "teamFullName": "Kenya",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "NEP",
-                    "teamID": "637",
-                    "teamFullName": "Nepal",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1661700600000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": true,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2648",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Nepal tour of Kenya, 2022",
-                "homeTeamName": "KEN",
-                "awayTeamName": "NEP",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215558",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "4th T20I",
-                "venue": " Nairobi",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "KEN",
-                    "teamID": "14",
-                    "teamFullName": "Kenya",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "NEP",
-                    "teamID": "637",
-                    "teamFullName": "Nepal",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1661787000000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2648",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Nepal tour of Kenya, 2022",
-                "homeTeamName": "KEN",
-                "awayTeamName": "NEP",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215559",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "5th T20I",
-                "venue": " Nairobi",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "KEN",
-                    "teamID": "14",
-                    "teamFullName": "Kenya",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "NEP",
-                    "teamID": "637",
-                    "teamFullName": "Nepal",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1661873400000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+          "matchScore": [
+            {
+              "teamShortName": "IND",
+              "teamID": "4",
+              "teamFullName": "India",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "PAK",
+              "teamID": "6",
+              "teamFullName": "Pakistan",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1661715000000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2637",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Asia Cup, 2022",
+          "homeTeamName": "BAN",
+          "awayTeamName": "AFG",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215317",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 3",
+          "venue": " Sharjah",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
           },
-          {"id":14,
-            "seriesView": true,
-            "seriesAvailable": false,
-            "seriesID": "2670",
-            "matchType": "T20",
-            "seriesName": "Ireland Women tour of Scotland, 2022",
-            "matches": [
-              {
-                "seriesID": "2670",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Ireland Women tour of Scotland, 2022",
-                "homeTeamName": "SC-W",
-                "awayTeamName": "IR-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215948",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "1st T20I",
-                "venue": " Raeburn Place",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "SC-W",
-                    "teamID": "1132",
-                    "teamFullName": "Scotland Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "IR-W",
-                    "teamID": "1125",
-                    "teamFullName": "Ireland Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662399000000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2670",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Ireland Women tour of Scotland, 2022",
-                "homeTeamName": "SC-W",
-                "awayTeamName": "IR-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215949",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "2nd T20I",
-                "venue": " Raeburn Place",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "SC-W",
-                    "teamID": "1132",
-                    "teamFullName": "Scotland Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "IR-W",
-                    "teamID": "1125",
-                    "teamFullName": "Ireland Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662485400000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2670",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Ireland Women tour of Scotland, 2022",
-                "homeTeamName": "SC-W",
-                "awayTeamName": "IR-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215950",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "3rd T20I",
-                "venue": " Raeburn Place",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "SC-W",
-                    "teamID": "1132",
-                    "teamFullName": "Scotland Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "IR-W",
-                    "teamID": "1125",
-                    "teamFullName": "Ireland Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662651000000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+          "matchScore": [
+            {
+              "teamShortName": "BAN",
+              "teamID": "2",
+              "teamFullName": "Bangladesh",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "AFG",
+              "teamID": "1188",
+              "teamFullName": "Afghanistan",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1661887800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seriesView": true,
+      "seriesAvailable": false,
+      "seriesID": "2521",
+      "matchType": "ODI",
+      "seriesName": "Zimbabwe tour of Australia, 2022",
+      "matches": [
+        {
+          "seriesID": "2521",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Zimbabwe tour of Australia, 2022",
+          "homeTeamName": "AUS",
+          "awayTeamName": "ZIM",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "212990",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "1st ODI",
+          "venue": " Townsville",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "AUS",
+            "homeTeamPercentage": "74",
+            "awayTeamShortName": "ZIM",
+            "awayTeamPercentage": "26",
+            "tiePercentage": ""
           },
-          { "id":15,
-            "seriesView": true,
-            "seriesAvailable": false,
-            "seriesID": "2522",
-            "matchType": "ODI",
-            "seriesName": "New Zealand tour of Australia, 2022",
-            "matches": [
-              {
-                "seriesID": "2522",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "New Zealand tour of Australia, 2022",
-                "homeTeamName": "AUS",
-                "awayTeamName": "NZ",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "212993",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "1st ODI",
-                "venue": " Cairns",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "AUS",
-                    "teamID": "1",
-                    "teamFullName": "Australia",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "NZ",
-                    "teamID": "5",
-                    "teamFullName": "New Zealand",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662457800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2522",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "New Zealand tour of Australia, 2022",
-                "homeTeamName": "AUS",
-                "awayTeamName": "NZ",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "212994",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "2nd ODI",
-                "venue": " Cairns",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "AUS",
-                    "teamID": "1",
-                    "teamFullName": "Australia",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "NZ",
-                    "teamID": "5",
-                    "teamFullName": "New Zealand",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662630600000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2522",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "New Zealand tour of Australia, 2022",
-                "homeTeamName": "AUS",
-                "awayTeamName": "NZ",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "212995",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "3rd ODI",
-                "venue": " Cairns",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "AUS",
-                    "teamID": "1",
-                    "teamFullName": "Australia",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "NZ",
-                    "teamID": "5",
-                    "teamFullName": "New Zealand",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662889800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+          "matchScore": [
+            {
+              "teamShortName": "AUS",
+              "teamID": "1",
+              "teamFullName": "Australia",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "ZIM",
+              "teamID": "10",
+              "teamFullName": "Zimbabwe",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1661663400000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2521",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Zimbabwe tour of Australia, 2022",
+          "homeTeamName": "AUS",
+          "awayTeamName": "ZIM",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "212991",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "2nd ODI",
+          "venue": " Townsville",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
           },
-          {"id":16,
-            "seriesView": true,
-            "seriesAvailable": false,
-            "seriesID": "2082",
-            "matchType": "Test",
-            "seriesName": "South Africa tour of England, 2022",
-            "matches": [
-              {
-                "seriesID": "2082",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "South Africa tour of England, 2022",
-                "homeTeamName": "ENG",
-                "awayTeamName": "SA",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "205293",
-                "matchType": "Test",
-                "statusMessage": "",
-                "matchNumber": "3rd Test",
-                "venue": " London",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "ENG",
-                    "teamID": "3",
-                    "teamFullName": "England",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "SA",
-                    "teamID": "7",
-                    "teamFullName": "South Africa",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662651000000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": true,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+          "matchScore": [
+            {
+              "teamShortName": "AUS",
+              "teamID": "1",
+              "teamFullName": "Australia",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "ZIM",
+              "teamID": "10",
+              "teamFullName": "Zimbabwe",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1661922600000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2521",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Zimbabwe tour of Australia, 2022",
+          "homeTeamName": "AUS",
+          "awayTeamName": "ZIM",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "212992",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "3rd ODI",
+          "venue": " Townsville",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
           },
-          {"id":17,
-            "seriesView": true,
-            "seriesAvailable": true,
-            "seriesID": "2641",
-            "matchType": "T20",
-            "seriesName": "ICC Men's T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2022-23",
-            "matches": [
-              {
-                "seriesID": "2641",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "ICC Men's T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2022-23",
-                "homeTeamName": "FIJ",
-                "awayTeamName": "VAN",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215397",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 1",
-                "venue": " Port Vila",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "FIJ",
-                    "teamID": "301",
-                    "teamFullName": "Fiji",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "VAN",
-                    "teamID": "1720",
-                    "teamFullName": "Vanuatu",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662696000000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2641",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "ICC Men's T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2022-23",
-                "homeTeamName": "SAM",
-                "awayTeamName": "COK",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215398",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 2",
-                "venue": " Port Vila",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "SAM",
-                    "teamID": "1753",
-                    "teamFullName": "Samoa",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "COK",
-                    "teamID": "1843",
-                    "teamFullName": "Cook Islands",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662710400000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2641",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "ICC Men's T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2022-23",
-                "homeTeamName": "FIJ",
-                "awayTeamName": "COK",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215399",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 3",
-                "venue": " Port Vila",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "FIJ",
-                    "teamID": "301",
-                    "teamFullName": "Fiji",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "COK",
-                    "teamID": "1843",
-                    "teamFullName": "Cook Islands",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662782400000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+          "matchScore": [
+            {
+              "teamShortName": "AUS",
+              "teamID": "1",
+              "teamFullName": "Australia",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "ZIM",
+              "teamID": "10",
+              "teamFullName": "Zimbabwe",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662181800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2648",
+      "matchType": "T20",
+      "seriesName": "Nepal tour of Kenya, 2022",
+      "matches": [
+        {
+          "seriesID": "2648",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Nepal tour of Kenya, 2022",
+          "homeTeamName": "KEN",
+          "awayTeamName": "NEP",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215557",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "3rd T20I",
+          "venue": " Nairobi",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "KEN",
+            "homeTeamPercentage": "36",
+            "awayTeamShortName": "NEP",
+            "awayTeamPercentage": "64",
+            "tiePercentage": ""
           },
-          {"id":18,
-            "seriesView": true,
-            "seriesAvailable": true,
-            "seriesID": "2657",
-            "matchType": "T20",
-            "seriesName": "Women's T20I Quadrangular Series in UAE, 2022",
-            "matches": [
-              {
-                "seriesID": "2657",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Women's T20I Quadrangular Series in UAE, 2022",
-                "homeTeamName": "USAW",
-                "awayTeamName": "ZM-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215831",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 1",
-                "venue": " Dubai",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "USAW",
-                    "teamID": "1725",
-                    "teamFullName": "USA Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "ZM-W",
-                    "teamID": "1485",
-                    "teamFullName": "Zimbabwe Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662809400000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2657",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Women's T20I Quadrangular Series in UAE, 2022",
-                "homeTeamName": "UAE-W",
-                "awayTeamName": "TL-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215832",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 2",
-                "venue": " Dubai",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "UAE-W",
-                    "teamID": "1642",
-                    "teamFullName": "United Arab Emirates Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "TL-W",
-                    "teamID": "1482",
-                    "teamFullName": "Thailand Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662823800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2657",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "Women's T20I Quadrangular Series in UAE, 2022",
-                "homeTeamName": "UAE-W",
-                "awayTeamName": "ZM-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215833",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "Match 3",
-                "venue": " Dubai",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "UAE-W",
-                    "teamID": "1642",
-                    "teamFullName": "United Arab Emirates Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "ZM-W",
-                    "teamID": "1485",
-                    "teamFullName": "Zimbabwe Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662982200000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+          "matchScore": [
+            {
+              "teamShortName": "KEN",
+              "teamID": "14",
+              "teamFullName": "Kenya",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "NEP",
+              "teamID": "637",
+              "teamFullName": "Nepal",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1661700600000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2648",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Nepal tour of Kenya, 2022",
+          "homeTeamName": "KEN",
+          "awayTeamName": "NEP",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215558",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "4th T20I",
+          "venue": " Nairobi",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
           },
-          {"id":19,
-            "seriesView": true,
-            "seriesAvailable": true,
-            "seriesID": "2276",
-            "matchType": "T20",
-            "seriesName": "India Women tour of England, 2022",
-            "matches": [
-              {
-                "seriesID": "2276",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "India Women tour of England, 2022",
-                "homeTeamName": "EN-W",
-                "awayTeamName": "IN-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "210132",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "1st T20I",
-                "venue": " Chester-le-Street",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "EN-W",
-                    "teamID": "1121",
-                    "teamFullName": "England Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "IN-W",
-                    "teamID": "1126",
-                    "teamFullName": "India Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662850800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2276",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "India Women tour of England, 2022",
-                "homeTeamName": "EN-W",
-                "awayTeamName": "IN-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "210133",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "2nd T20I",
-                "venue": " Derby",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "EN-W",
-                    "teamID": "1121",
-                    "teamFullName": "England Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "IN-W",
-                    "teamID": "1126",
-                    "teamFullName": "India Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1663111800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "2276",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "India Women tour of England, 2022",
-                "homeTeamName": "EN-W",
-                "awayTeamName": "IN-W",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "210134",
-                "matchType": "T20",
-                "statusMessage": "",
-                "matchNumber": "3rd T20I",
-                "venue": " Bristol",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "EN-W",
-                    "teamID": "1121",
-                    "teamFullName": "England Women",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "IN-W",
-                    "teamID": "1126",
-                    "teamFullName": "India Women",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1663282800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              }
-            ]
+          "matchScore": [
+            {
+              "teamShortName": "KEN",
+              "teamID": "14",
+              "teamFullName": "Kenya",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "NEP",
+              "teamID": "637",
+              "teamFullName": "Nepal",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1661787000000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2648",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Nepal tour of Kenya, 2022",
+          "homeTeamName": "KEN",
+          "awayTeamName": "NEP",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215559",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "5th T20I",
+          "venue": " Nairobi",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
           },
-          {"id":20,
-            "seriesView": true,
-            "seriesAvailable": true,
-            "seriesID": "1192",
-            "matchType": "ODI",
-            "seriesName": "ICC CWC League 2, 2019-23",
-            "matches": [
-              {
-                "seriesID": "1192",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "ICC CWC League 2, 2019-23",
-                "homeTeamName": "PNG",
-                "awayTeamName": "USA",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215583",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "Match 1",
-                "venue": " Port Moresby",
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
+          "matchScore": [
+            {
+              "teamShortName": "KEN",
+              "teamID": "14",
+              "teamFullName": "Kenya",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "NEP",
+              "teamID": "637",
+              "teamFullName": "Nepal",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1661873400000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seriesView": true,
+      "seriesAvailable": false,
+      "seriesID": "2670",
+      "matchType": "T20",
+      "seriesName": "Ireland Women tour of Scotland, 2022",
+      "matches": [
+        {
+          "seriesID": "2670",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Ireland Women tour of Scotland, 2022",
+          "homeTeamName": "SC-W",
+          "awayTeamName": "IR-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215948",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "1st T20I",
+          "venue": " Raeburn Place",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "SC-W",
+              "teamID": "1132",
+              "teamFullName": "Scotland Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "IR-W",
+              "teamID": "1125",
+              "teamFullName": "Ireland Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662399000000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2670",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Ireland Women tour of Scotland, 2022",
+          "homeTeamName": "SC-W",
+          "awayTeamName": "IR-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215949",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "2nd T20I",
+          "venue": " Raeburn Place",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "SC-W",
+              "teamID": "1132",
+              "teamFullName": "Scotland Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "IR-W",
+              "teamID": "1125",
+              "teamFullName": "Ireland Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662485400000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2670",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Ireland Women tour of Scotland, 2022",
+          "homeTeamName": "SC-W",
+          "awayTeamName": "IR-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215950",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "3rd T20I",
+          "venue": " Raeburn Place",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "SC-W",
+              "teamID": "1132",
+              "teamFullName": "Scotland Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "IR-W",
+              "teamID": "1125",
+              "teamFullName": "Ireland Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662651000000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seriesView": true,
+      "seriesAvailable": false,
+      "seriesID": "2522",
+      "matchType": "ODI",
+      "seriesName": "New Zealand tour of Australia, 2022",
+      "matches": [
+        {
+          "seriesID": "2522",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "New Zealand tour of Australia, 2022",
+          "homeTeamName": "AUS",
+          "awayTeamName": "NZ",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "212993",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "1st ODI",
+          "venue": " Cairns",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "AUS",
+              "teamID": "1",
+              "teamFullName": "Australia",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "NZ",
+              "teamID": "5",
+              "teamFullName": "New Zealand",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662457800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2522",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "New Zealand tour of Australia, 2022",
+          "homeTeamName": "AUS",
+          "awayTeamName": "NZ",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "212994",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "2nd ODI",
+          "venue": " Cairns",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "AUS",
+              "teamID": "1",
+              "teamFullName": "Australia",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "NZ",
+              "teamID": "5",
+              "teamFullName": "New Zealand",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662630600000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2522",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "New Zealand tour of Australia, 2022",
+          "homeTeamName": "AUS",
+          "awayTeamName": "NZ",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "212995",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "3rd ODI",
+          "venue": " Cairns",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "AUS",
+              "teamID": "1",
+              "teamFullName": "Australia",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "NZ",
+              "teamID": "5",
+              "teamFullName": "New Zealand",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662889800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seriesView": true,
+      "seriesAvailable": false,
+      "seriesID": "2082",
+      "matchType": "Test",
+      "seriesName": "South Africa tour of England, 2022",
+      "matches": [
+        {
+          "seriesID": "2082",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "South Africa tour of England, 2022",
+          "homeTeamName": "ENG",
+          "awayTeamName": "SA",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "205293",
+          "matchType": "Test",
+          "statusMessage": "",
+          "matchNumber": "3rd Test",
+          "venue": " London",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "ENG",
+              "teamID": "3",
+              "teamFullName": "England",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "SA",
+              "teamID": "7",
+              "teamFullName": "South Africa",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662651000000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2641",
+      "matchType": "T20",
+      "seriesName": "ICC Men's T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2022-23",
+      "matches": [
+        {
+          "seriesID": "2641",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "ICC Men's T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2022-23",
+          "homeTeamName": "FIJ",
+          "awayTeamName": "VAN",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215397",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 1",
+          "venue": " Port Vila",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "FIJ",
+              "teamID": "301",
+              "teamFullName": "Fiji",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "VAN",
+              "teamID": "1720",
+              "teamFullName": "Vanuatu",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662696000000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2641",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "ICC Men's T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2022-23",
+          "homeTeamName": "SAM",
+          "awayTeamName": "COK",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215398",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 2",
+          "venue": " Port Vila",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "SAM",
+              "teamID": "1753",
+              "teamFullName": "Samoa",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "COK",
+              "teamID": "1843",
+              "teamFullName": "Cook Islands",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662710400000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2641",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "ICC Men's T20 World Cup Sub Regional East Asia-Pacific Qualifier A, 2022-23",
+          "homeTeamName": "FIJ",
+          "awayTeamName": "COK",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215399",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 3",
+          "venue": " Port Vila",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "FIJ",
+              "teamID": "301",
+              "teamFullName": "Fiji",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "COK",
+              "teamID": "1843",
+              "teamFullName": "Cook Islands",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662782400000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2657",
+      "matchType": "T20",
+      "seriesName": "Women's T20I Quadrangular Series in UAE, 2022",
+      "matches": [
+        {
+          "seriesID": "2657",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Women's T20I Quadrangular Series in UAE, 2022",
+          "homeTeamName": "USAW",
+          "awayTeamName": "ZM-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215831",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 1",
+          "venue": " Dubai",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "USAW",
+              "teamID": "1725",
+              "teamFullName": "USA Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "ZM-W",
+              "teamID": "1485",
+              "teamFullName": "Zimbabwe Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662809400000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2657",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Women's T20I Quadrangular Series in UAE, 2022",
+          "homeTeamName": "UAE-W",
+          "awayTeamName": "TL-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215832",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 2",
+          "venue": " Dubai",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "UAE-W",
+              "teamID": "1642",
+              "teamFullName": "United Arab Emirates Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "TL-W",
+              "teamID": "1482",
+              "teamFullName": "Thailand Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662823800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2657",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "Women's T20I Quadrangular Series in UAE, 2022",
+          "homeTeamName": "UAE-W",
+          "awayTeamName": "ZM-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215833",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "Match 3",
+          "venue": " Dubai",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "UAE-W",
+              "teamID": "1642",
+              "teamFullName": "United Arab Emirates Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "ZM-W",
+              "teamID": "1485",
+              "teamFullName": "Zimbabwe Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662982200000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2276",
+      "matchType": "T20",
+      "seriesName": "India Women tour of England, 2022",
+      "matches": [
+        {
+          "seriesID": "2276",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "India Women tour of England, 2022",
+          "homeTeamName": "EN-W",
+          "awayTeamName": "IN-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "210132",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "1st T20I",
+          "venue": " Chester-le-Street",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "EN-W",
+              "teamID": "1121",
+              "teamFullName": "England Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "IN-W",
+              "teamID": "1126",
+              "teamFullName": "India Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662850800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2276",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "India Women tour of England, 2022",
+          "homeTeamName": "EN-W",
+          "awayTeamName": "IN-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "210133",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "2nd T20I",
+          "venue": " Derby",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "EN-W",
+              "teamID": "1121",
+              "teamFullName": "England Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "IN-W",
+              "teamID": "1126",
+              "teamFullName": "India Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1663111800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2276",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "India Women tour of England, 2022",
+          "homeTeamName": "EN-W",
+          "awayTeamName": "IN-W",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "210134",
+          "matchType": "T20",
+          "statusMessage": "",
+          "matchNumber": "3rd T20I",
+          "venue": " Bristol",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "EN-W",
+              "teamID": "1121",
+              "teamFullName": "England Women",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "IN-W",
+              "teamID": "1126",
+              "teamFullName": "India Women",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1663282800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "1192",
+      "matchType": "ODI",
+      "seriesName": "ICC CWC League 2, 2019-23",
+      "matches": [
+        {
+          "seriesID": "1192",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "ICC CWC League 2, 2019-23",
+          "homeTeamName": "PNG",
+          "awayTeamName": "USA",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215583",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "Match 1",
+          "venue": " Port Moresby",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "PNG",
+              "teamID": "750",
+              "teamFullName": "Papua New Guinea",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "USA",
+              "teamID": "22",
+              "teamFullName": "USA",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1662903000000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "1192",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "ICC CWC League 2, 2019-23",
+          "homeTeamName": "PNG",
+          "awayTeamName": "USA",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215584",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "Match 2",
+          "venue": null,
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "PNG",
+              "teamID": "750",
+              "teamFullName": "Papua New Guinea",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "USA",
+              "teamID": "22",
+              "teamFullName": "USA",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1663075800000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "1192",
+          "league": "International",
+          "currentinningsNo": "1",
+          "currentInningsTeamName": "",
+          "seriesName": "ICC CWC League 2, 2019-23",
+          "homeTeamName": "USA",
+          "awayTeamName": "NAM",
+          "toss": null,
+          "startEndDate": null,
+          "matchStatus": "upcoming",
+          "matchID": "215585",
+          "matchType": "ODI",
+          "statusMessage": "",
+          "matchNumber": "Match 3",
+          "venue": null,
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "USA",
+              "teamID": "22",
+              "teamFullName": "USA",
+              "teamScore": []
+            },
+            {
+              "teamShortName": "NAM",
+              "teamID": "20",
+              "teamFullName": "Namibia",
+              "teamScore": []
+            }
+          ],
+          "startDate": "1663248600000",
+          "playerID": "",
+          "playing11Status": false,
+          "probable11Status": false,
+          "playerOfTheMatch": "",
+          "firstInningsTeamID": "",
+          "secondInningsTeamID": "",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seriesView": true,
+      "seriesAvailable": false,
+      "seriesID": "2082",
+      "matchType": "Test",
+      "seriesName": "South Africa tour of England, 2022",
+      "matches": [
+        {
+          "seriesID": "2082",
+          "league": "International",
+          "currentinningsNo": "3",
+          "currentInningsTeamName": "South Africa",
+          "seriesName": "South Africa tour of England, 2022",
+          "homeTeamName": "ENG",
+          "awayTeamName": "SA",
+          "toss": "South Africa won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "live",
+          "matchID": "205292",
+          "matchType": "Test",
+          "statusMessage": "Day 2: Stumps - SA trail by 241 runs",
+          "matchNumber": "2nd Test",
+          "venue": " Manchester",
+          "matchResult": "",
+          "teamsWinProbability": {
+            "homeTeamShortName": "ENG",
+            "homeTeamPercentage": "82",
+            "awayTeamShortName": "SA",
+            "awayTeamPercentage": "16",
+            "tiePercentage": "2"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "SA",
+              "teamID": "7",
+              "teamFullName": "South Africa",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "South Africa",
+                  "runsScored": "151",
+                  "wickets": "10",
+                  "overs": "53.2",
+                  "runRate": "2.83",
+                  "battingSide": "away",
+                  "teamID": "7",
+                  "battingTeamShortName": "SA",
+                  "declared": false,
+                  "folowOn": false
                 },
-                "matchScore": [
-                  {
-                    "teamShortName": "PNG",
-                    "teamID": "750",
-                    "teamFullName": "Papua New Guinea",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "USA",
-                    "teamID": "22",
-                    "teamFullName": "USA",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1662903000000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": true,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "1192",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "ICC CWC League 2, 2019-23",
-                "homeTeamName": "PNG",
-                "awayTeamName": "USA",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215584",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "Match 2",
-                "venue": null,
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
-                "matchScore": [
-                  {
-                    "teamShortName": "PNG",
-                    "teamID": "750",
-                    "teamFullName": "Papua New Guinea",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "USA",
-                    "teamID": "22",
-                    "teamFullName": "USA",
-                    "teamScore": []
-                  }
-                ],
-                "startDate": "1663075800000",
-                "playerID": "",
-                "playing11Status": false,
-                "probable11Status": false,
-                "playerOfTheMatch": "",
-                "firstInningsTeamID": "",
-                "secondInningsTeamID": "",
-                "thirdInningsTeamID": "",
-                "fourthInningsTeamID": ""
-              },
-              {
-                "seriesID": "1192",
-                "league": "International",
-                "currentinningsNo": "1",
-                "currentInningsTeamName": "",
-                "seriesName": "ICC CWC League 2, 2019-23",
-                "homeTeamName": "USA",
-                "awayTeamName": "NAM",
-                "toss": null,
-                "startEndDate": null,
-                "matchStatus": "upcoming",
-                "matchID": "215585",
-                "matchType": "ODI",
-                "statusMessage": "",
-                "matchNumber": "Match 3",
-                "venue": null,
-                "matchResult": "",
-                "teamsWinProbability": {
-                  "homeTeamShortName": "",
-                  "homeTeamPercentage": "",
-                  "awayTeamShortName": "",
-                  "awayTeamPercentage": "",
-                  "tiePercentage": ""
-                },
+
+                {
+                  "inning": 3,
+                  "inningNumber": "Third",
+                  "battingTeam": "South Africa",
+                  "runsScored": "23",
+                  "wickets": "0",
+                  "overs": "9.0",
+                  "runRate": "2.56",
+                  "battingSide": "away",
+                  "teamID": "7",
+                  "battingTeamShortName": "SA",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "ENG",
+              "teamID": "3",
+              "teamFullName": "England",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "England",
+                  "runsScored": "415",
+                  "wickets": "9",
+                  "overs": "106.4",
+                  "runRate": "3.89",
+                  "battingSide": "home",
+                  "teamID": "3",
+                  "battingTeamShortName": "ENG",
+                  "declared": true,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661441400000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "",
+          "firstInningsTeamID": "7",
+          "secondInningsTeamID": "3",
+          "thirdInningsTeamID": "7",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 22,
+      "seriesView": true,
+      "seriesAvailable": false,
+      "seriesID": "2648",
+      "matchType": "T20",
+      "seriesName": "Nepal tour of Kenya, 2022",
+      "matches": [
+        {
+          "seriesID": "2648",
+          "league": "International",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Nepal",
+          "seriesName": "Nepal tour of Kenya, 2022",
+          "homeTeamName": "KEN",
+          "awayTeamName": "NEP",
+          "toss": "Nepal won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215556",
+          "matchType": "T20",
+          "statusMessage": "Kenya beat Nepal by 18 runs",
+          "matchNumber": "2nd T20I",
+          "venue": " Nairobi",
+          "matchResult": "KEN Won By 18 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "KEN",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "NEP",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "KEN",
+              "teamID": "14",
+              "teamFullName": "Kenya",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Kenya",
+                  "runsScored": "132",
+                  "wickets": "9",
+                  "overs": "20.0",
+                  "runRate": "6.6",
+                  "battingSide": "home",
+                  "teamID": "14",
+                  "battingTeamShortName": "KEN",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "NEP",
+              "teamID": "637",
+              "teamFullName": "Nepal",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Nepal",
+                  "runsScored": "114",
+                  "wickets": "10",
+                  "overs": "19.0",
+                  "runRate": "6",
+                  "battingSide": "away",
+                  "teamID": "637",
+                  "battingTeamShortName": "NEP",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661527800000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "KEN",
+          "firstInningsTeamID": "14",
+          "secondInningsTeamID": "637",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2648",
+          "league": "International",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Nepal",
+          "seriesName": "Nepal tour of Kenya, 2022",
+          "homeTeamName": "KEN",
+          "awayTeamName": "NEP",
+          "toss": "Nepal won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215555",
+          "matchType": "T20",
+          "statusMessage": "Nepal beat Kenya by 5 wickets",
+          "matchNumber": "1st T20I",
+          "venue": " Nairobi",
+          "matchResult": "NEP Won By 5 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "KEN",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "NEP",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "KEN",
+              "teamID": "14",
+              "teamFullName": "Kenya",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Kenya",
+                  "runsScored": "130",
+                  "wickets": "8",
+                  "overs": "20.0",
+                  "runRate": "6.5",
+                  "battingSide": "home",
+                  "teamID": "14",
+                  "battingTeamShortName": "KEN",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "NEP",
+              "teamID": "637",
+              "teamFullName": "Nepal",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Nepal",
+                  "runsScored": "133",
+                  "wickets": "5",
+                  "overs": "19.2",
+                  "runRate": "6.88",
+                  "battingSide": "away",
+                  "teamID": "637",
+                  "battingTeamShortName": "NEP",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661441400000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "KEN",
+          "firstInningsTeamID": "14",
+          "secondInningsTeamID": "637",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 23,
+      "seriesView": true,
+      "seriesAvailable": false,
+      "seriesID": "2575",
+      "matchType": "ODI",
+      "seriesName": "Ireland Women tour of Netherlands, 2022",
+      "matches": [
+        {
+          "seriesID": "2575",
+          "league": "International",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Ireland Women",
+          "seriesName": "Ireland Women tour of Netherlands, 2022",
+          "homeTeamName": "ND-W",
+          "awayTeamName": "IR-W",
+          "toss": "Netherlands Women won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "213694",
+          "matchType": "ODI",
+          "statusMessage": "Ireland Women beat Netherlands Women by 8 wickets",
+          "matchNumber": "3rd ODI",
+          "venue": " Amstelveen",
+          "matchResult": "IR-W Won By 8 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "ND-W",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "IR-W",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "ND-W",
+              "teamID": "1123",
+              "teamFullName": "Netherlands Women",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Netherlands Women",
+                  "runsScored": "185",
+                  "wickets": "10",
+                  "overs": "47.2",
+                  "runRate": "3.91",
+                  "battingSide": "home",
+                  "teamID": "1123",
+                  "battingTeamShortName": "ND-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "IR-W",
+              "teamID": "1125",
+              "teamFullName": "Ireland Women",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Ireland Women",
+                  "runsScored": "188",
+                  "wickets": "2",
+                  "overs": "35.3",
+                  "runRate": "5.3",
+                  "battingSide": "away",
+                  "teamID": "1125",
+                  "battingTeamShortName": "IR-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661524200000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "ND-W",
+          "firstInningsTeamID": "1123",
+          "secondInningsTeamID": "1125",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2575",
+          "league": "International",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Netherlands Women",
+          "seriesName": "Ireland Women tour of Netherlands, 2022",
+          "homeTeamName": "ND-W",
+          "awayTeamName": "IR-W",
+          "toss": "Netherlands Women won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "213693",
+          "matchType": "ODI",
+          "statusMessage": "Ireland Women beat Netherlands Women by 210 runs",
+          "matchNumber": "2nd ODI",
+          "venue": " Amstelveen",
+          "matchResult": "IR-W Won By 210 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "ND-W",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "IR-W",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "IR-W",
+              "teamID": "1125",
+              "teamFullName": "Ireland Women",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Ireland Women",
+                  "runsScored": "337",
+                  "wickets": "8",
+                  "overs": "50.0",
+                  "runRate": "6.74",
+                  "battingSide": "away",
+                  "teamID": "1125",
+                  "battingTeamShortName": "IR-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "ND-W",
+              "teamID": "1123",
+              "teamFullName": "Netherlands Women",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Netherlands Women",
+                  "runsScored": "127",
+                  "wickets": "10",
+                  "overs": "33.2",
+                  "runRate": "3.81",
+                  "battingSide": "home",
+                  "teamID": "1123",
+                  "battingTeamShortName": "ND-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661351400000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "ND-W",
+          "firstInningsTeamID": "1125",
+          "secondInningsTeamID": "1123",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2575",
+          "league": "International",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Ireland Women",
+          "seriesName": "Ireland Women tour of Netherlands, 2022",
+          "homeTeamName": "ND-W",
+          "awayTeamName": "IR-W",
+          "toss": "Ireland Women won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "213692",
+          "matchType": "ODI",
+          "statusMessage": "Ireland Women beat Netherlands Women by 5 wickets",
+          "matchNumber": "1st ODI",
+          "venue": " Amstelveen",
+          "matchResult": "IR-W Won By 5 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "ND-W",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "IR-W",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "ND-W",
+              "teamID": "1123",
+              "teamFullName": "Netherlands Women",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Netherlands Women",
+                  "runsScored": "84",
+                  "wickets": "10",
+                  "overs": "32.5",
+                  "runRate": "2.56",
+                  "battingSide": "home",
+                  "teamID": "1123",
+                  "battingTeamShortName": "ND-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "IR-W",
+              "teamID": "1125",
+              "teamFullName": "Ireland Women",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Ireland Women",
+                  "runsScored": "87",
+                  "wickets": "5",
+                  "overs": "19.3",
+                  "runRate": "4.46",
+                  "battingSide": "away",
+                  "teamID": "1125",
+                  "battingTeamShortName": "IR-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661178600000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "ND-W",
+          "firstInningsTeamID": "1123",
+          "secondInningsTeamID": "1125",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 24,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2649",
+      "matchType": "T20",
+      "seriesName": "Asia Cup Qualifier, 2022",
+      "matches": [
+        {
+          "seriesID": "2649",
+          "league": "International",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Hong Kong",
+          "seriesName": "Asia Cup Qualifier, 2022",
+          "homeTeamName": "HK",
+          "awayTeamName": "UAE",
+          "toss": "Hong Kong won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215568",
+          "matchType": "T20",
+          "statusMessage": "Hong Kong beat United Arab Emirates by 8 wickets",
+          "matchNumber": "Match 6",
+          "venue": " Oman",
+          "matchResult": "HK Won By 8 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "HK",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "UAE",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "UAE",
+              "teamID": "21",
+              "teamFullName": "United Arab Emirates",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "United Arab Emirates",
+                  "runsScored": "147",
+                  "wickets": "10",
+                  "overs": "19.3",
+                  "runRate": "7.54",
+                  "battingSide": "away",
+                  "teamID": "21",
+                  "battingTeamShortName": "UAE",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "HK",
+              "teamID": "19",
+              "teamFullName": "Hong Kong",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Hong Kong",
+                  "runsScored": "149",
+                  "wickets": "2",
+                  "overs": "19.0",
+                  "runRate": "7.84",
+                  "battingSide": "home",
+                  "teamID": "19",
+                  "battingTeamShortName": "HK",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661376600000",
+          "playerID": "34141",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Ehsan Khan",
+          "playerofTheMatchTeamShortName": "HK",
+          "firstInningsTeamID": "21",
+          "secondInningsTeamID": "19",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2649",
+          "league": "International",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Kuwait",
+          "seriesName": "Asia Cup Qualifier, 2022",
+          "homeTeamName": "SIN",
+          "awayTeamName": "KUW",
+          "toss": "Singapore won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215567",
+          "matchType": "T20",
+          "statusMessage": "Kuwait beat Singapore by 6 wickets",
+          "matchNumber": "Match 5",
+          "venue": " Oman",
+          "matchResult": "KUW Won By 6 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "SIN",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "KUW",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "SIN",
+              "teamID": "1565",
+              "teamFullName": "Singapore",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Singapore",
+                  "runsScored": "104",
+                  "wickets": "10",
+                  "overs": "19.5",
+                  "runRate": "5.24",
+                  "battingSide": "home",
+                  "teamID": "1565",
+                  "battingTeamShortName": "SIN",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "KUW",
+              "teamID": "1797",
+              "teamFullName": "Kuwait",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Kuwait",
+                  "runsScored": "105",
+                  "wickets": "4",
+                  "overs": "7.5",
+                  "runRate": "13.4",
+                  "battingSide": "away",
+                  "teamID": "1797",
+                  "battingTeamShortName": "KUW",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661362200000",
+          "playerID": "94945",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Yasin Patel",
+          "playerofTheMatchTeamShortName": "KUW",
+          "firstInningsTeamID": "1565",
+          "secondInningsTeamID": "1797",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2649",
+          "league": "International",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Hong Kong",
+          "seriesName": "Asia Cup Qualifier, 2022",
+          "homeTeamName": "KUW",
+          "awayTeamName": "HK",
+          "toss": "Hong Kong won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215566",
+          "matchType": "T20",
+          "statusMessage": "Hong Kong beat Kuwait by 8 wickets",
+          "matchNumber": "Match 4",
+          "venue": " Oman",
+          "matchResult": "HK Won By 8 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "KUW",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "HK",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "KUW",
+              "teamID": "1797",
+              "teamFullName": "Kuwait",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Kuwait",
+                  "runsScored": "151",
+                  "wickets": "9",
+                  "overs": "20.0",
+                  "runRate": "7.55",
+                  "battingSide": "home",
+                  "teamID": "1797",
+                  "battingTeamShortName": "KUW",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "HK",
+              "teamID": "19",
+              "teamFullName": "Hong Kong",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Hong Kong",
+                  "runsScored": "153",
+                  "wickets": "2",
+                  "overs": "17.4",
+                  "runRate": "8.66",
+                  "battingSide": "away",
+                  "teamID": "19",
+                  "battingTeamShortName": "HK",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661283000000",
+          "playerID": "31912",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Yasim Murtaza",
+          "playerofTheMatchTeamShortName": "HK",
+          "firstInningsTeamID": "1797",
+          "secondInningsTeamID": "19",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 25,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2260",
+      "matchType": "T100",
+      "seriesName": "The Hundred, 2022",
+      "matches": [
+        {
+          "seriesID": "2260",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Northern Superchargers",
+          "seriesName": "The Hundred, 2022",
+          "homeTeamName": "WEF",
+          "awayTeamName": "NOS",
+          "toss": "Welsh Fire won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209694",
+          "matchType": "T100",
+          "statusMessage": "Northern Superchargers beat Welsh Fire by 6 wickets",
+          "matchNumber": "Match 26",
+          "venue": " Cardiff",
+          "matchResult": "NOS Won By 6 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "WEF",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "NOS",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "WEF",
+              "teamID": "2044",
+              "teamFullName": "Welsh Fire",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Welsh Fire",
+                  "runsScored": "114",
+                  "wickets": "4",
+                  "overs": "20.0",
+                  "runRate": "5.7",
+                  "battingSide": "home",
+                  "teamID": "2044",
+                  "battingTeamShortName": "WEF",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "NOS",
+              "teamID": "2040",
+              "teamFullName": "Northern Superchargers",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Northern Superchargers",
+                  "runsScored": "116",
+                  "wickets": "4",
+                  "overs": "18.1",
+                  "runRate": "6.37",
+                  "battingSide": "away",
+                  "teamID": "2040",
+                  "battingTeamShortName": "NOS",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661556600000",
+          "playerID": "4648",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Adam Lyth",
+          "playerofTheMatchTeamShortName": "NOS",
+          "firstInningsTeamID": "2044",
+          "secondInningsTeamID": "2040",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2260",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Southern Brave",
+          "seriesName": "The Hundred, 2022",
+          "homeTeamName": "SOB",
+          "awayTeamName": "TRT",
+          "toss": "Southern Brave won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209693",
+          "matchType": "T100",
+          "statusMessage": "Southern Brave beat Trent Rockets by 6 wickets",
+          "matchNumber": "Match 25",
+          "venue": " Southampton",
+          "matchResult": "SOB Won By 6 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "SOB",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "TRT",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "TRT",
+              "teamID": "2043",
+              "teamFullName": "Trent Rockets",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Trent Rockets",
+                  "runsScored": "138",
+                  "wickets": "6",
+                  "overs": "20.0",
+                  "runRate": "6.9",
+                  "battingSide": "away",
+                  "teamID": "2043",
+                  "battingTeamShortName": "TRT",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "SOB",
+              "teamID": "2042",
+              "teamFullName": "Southern Brave",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Southern Brave",
+                  "runsScored": "142",
+                  "wickets": "4",
+                  "overs": "19.0",
+                  "runRate": "7.47",
+                  "battingSide": "home",
+                  "teamID": "2042",
+                  "battingTeamShortName": "SOB",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661470200000",
+          "playerID": "57181",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Alex Davies",
+          "playerofTheMatchTeamShortName": "SOB",
+          "firstInningsTeamID": "2043",
+          "secondInningsTeamID": "2042",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2260",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Welsh Fire",
+          "seriesName": "The Hundred, 2022",
+          "homeTeamName": "LNS",
+          "awayTeamName": "WEF",
+          "toss": "Welsh Fire won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209691",
+          "matchType": "T100",
+          "statusMessage": "London Spirit beat Welsh Fire by 17 runs",
+          "matchNumber": "Match 24",
+          "venue": " London",
+          "matchResult": "LNS Won By 17 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "LNS",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "WEF",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "LNS",
+              "teamID": "2038",
+              "teamFullName": "London Spirit",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "London Spirit",
+                  "runsScored": "156",
+                  "wickets": "6",
+                  "overs": "20.0",
+                  "runRate": "7.8",
+                  "battingSide": "home",
+                  "teamID": "2038",
+                  "battingTeamShortName": "LNS",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "WEF",
+              "teamID": "2044",
+              "teamFullName": "Welsh Fire",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Welsh Fire",
+                  "runsScored": "139",
+                  "wickets": "9",
+                  "overs": "20.0",
+                  "runRate": "6.95",
+                  "battingSide": "away",
+                  "teamID": "2044",
+                  "battingTeamShortName": "WEF",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661382000000",
+          "playerID": "65548",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Dan Lawrence",
+          "playerofTheMatchTeamShortName": "LNS",
+          "firstInningsTeamID": "2038",
+          "secondInningsTeamID": "2044",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 26,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2653",
+      "matchType": "T20",
+      "seriesName": "ICC Academy Summer Cup, 2022",
+      "matches": [
+        {
+          "seriesID": "2653",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Interglobe Marine",
+          "seriesName": "ICC Academy Summer Cup, 2022",
+          "homeTeamName": "MEM",
+          "awayTeamName": "IGM",
+          "toss": "Mid-East Metals won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215668",
+          "matchType": "T20",
+          "statusMessage": "Interglobe Marine beat Mid-East Metals by 5 wickets",
+          "matchNumber": "Match 7",
+          "venue": " Abu Dhabi",
+          "matchResult": "IGM Won By 5 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "MEM",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "IGM",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "MEM",
+              "teamID": "3026",
+              "teamFullName": "Mid-East Metals",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Mid-East Metals",
+                  "runsScored": "175",
+                  "wickets": "7",
+                  "overs": "20.0",
+                  "runRate": "8.75",
+                  "battingSide": "home",
+                  "teamID": "3026",
+                  "battingTeamShortName": "MEM",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "IGM",
+              "teamID": "2936",
+              "teamFullName": "Interglobe Marine",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Interglobe Marine",
+                  "runsScored": "176",
+                  "wickets": "5",
+                  "overs": "17.2",
+                  "runRate": "10.15",
+                  "battingSide": "away",
+                  "teamID": "2936",
+                  "battingTeamShortName": "IGM",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661549400000",
+          "playerID": "63494",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Yasir Kaleem",
+          "playerofTheMatchTeamShortName": "IGM",
+          "firstInningsTeamID": "3026",
+          "secondInningsTeamID": "2936",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2653",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Valley Boyz",
+          "seriesName": "ICC Academy Summer Cup, 2022",
+          "homeTeamName": "VB",
+          "awayTeamName": "DDD",
+          "toss": "Valley Boyz won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215660",
+          "matchType": "T20",
+          "statusMessage": "Dubai Dare Devils beat Valley Boyz by 54 runs",
+          "matchNumber": "Match 6",
+          "venue": " Abu Dhabi",
+          "matchResult": "DDD Won By 54 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "VB",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "DDD",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "DDD",
+              "teamID": "3221",
+              "teamFullName": "Dubai Dare Devils",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Dubai Dare Devils",
+                  "runsScored": "185",
+                  "wickets": "4",
+                  "overs": "20.0",
+                  "runRate": "9.25",
+                  "battingSide": "away",
+                  "teamID": "3221",
+                  "battingTeamShortName": "DDD",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "VB",
+              "teamID": "3220",
+              "teamFullName": "Valley Boyz",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Valley Boyz",
+                  "runsScored": "131",
+                  "wickets": "10",
+                  "overs": "17.0",
+                  "runRate": "7.71",
+                  "battingSide": "home",
+                  "teamID": "3220",
+                  "battingTeamShortName": "VB",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661463000000",
+          "playerID": "97024",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Abdul Aziz Mohd Rashid",
+          "playerofTheMatchTeamShortName": "DDD",
+          "firstInningsTeamID": "3221",
+          "secondInningsTeamID": "3220",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2653",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Interglobe Marine",
+          "seriesName": "ICC Academy Summer Cup, 2022",
+          "homeTeamName": "TVS",
+          "awayTeamName": "IGM",
+          "toss": "Interglobe Marine won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215659",
+          "matchType": "T20",
+          "statusMessage": "Interglobe Marine beat The Vision Shipping by 7 wickets",
+          "matchNumber": "Match 5",
+          "venue": " Abu Dhabi",
+          "matchResult": "IGM Won By 7 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "TVS",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "IGM",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "TVS",
+              "teamID": "2937",
+              "teamFullName": "The Vision Shipping",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "The Vision Shipping",
+                  "runsScored": "129",
+                  "wickets": "10",
+                  "overs": "20.0",
+                  "runRate": "6.45",
+                  "battingSide": "home",
+                  "teamID": "2937",
+                  "battingTeamShortName": "TVS",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "IGM",
+              "teamID": "2936",
+              "teamFullName": "Interglobe Marine",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Interglobe Marine",
+                  "runsScored": "132",
+                  "wickets": "3",
+                  "overs": "13.5",
+                  "runRate": "9.54",
+                  "battingSide": "away",
+                  "teamID": "2936",
+                  "battingTeamShortName": "IGM",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661376600000",
+          "playerID": "90948",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Harry Bharwal",
+          "playerofTheMatchTeamShortName": "IGM",
+          "firstInningsTeamID": "2937",
+          "secondInningsTeamID": "2936",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 27,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2259",
+      "matchType": "T100",
+      "seriesName": "The Hundred Women, 2022",
+      "matches": [
+        {
+          "seriesID": "2259",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Northern Superchargers Women",
+          "seriesName": "The Hundred Women, 2022",
+          "homeTeamName": "WEF-W",
+          "awayTeamName": "NOS-W",
+          "toss": "Welsh Fire Women won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209680",
+          "matchType": "T100",
+          "statusMessage": "Welsh Fire Women beat Northern Superchargers Women by 11 runs",
+          "matchNumber": "Match 18",
+          "venue": " Cardiff",
+          "matchResult": "WEF-W Won By 11 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "WEF-W",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "NOS-W",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "WEF-W",
+              "teamID": "2036",
+              "teamFullName": "Welsh Fire Women",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Welsh Fire Women",
+                  "runsScored": "123",
+                  "wickets": "6",
+                  "overs": "20.0",
+                  "runRate": "6.15",
+                  "battingSide": "home",
+                  "teamID": "2036",
+                  "battingTeamShortName": "WEF-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "NOS-W",
+              "teamID": "2031",
+              "teamFullName": "Northern Superchargers Women",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Northern Superchargers Women",
+                  "runsScored": "112",
+                  "wickets": "6",
+                  "overs": "20.0",
+                  "runRate": "5.6",
+                  "battingSide": "away",
+                  "teamID": "2031",
+                  "battingTeamShortName": "NOS-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661544000000",
+          "playerID": "63267",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Nicola Carey",
+          "playerofTheMatchTeamShortName": "WEF-W",
+          "firstInningsTeamID": "2036",
+          "secondInningsTeamID": "2031",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2259",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Southern Brave Women",
+          "seriesName": "The Hundred Women, 2022",
+          "homeTeamName": "SOB-W",
+          "awayTeamName": "TRT-W",
+          "toss": "Southern Brave Women won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209678",
+          "matchType": "T100",
+          "statusMessage": "Southern Brave Women beat Trent Rockets Women by 10 wickets",
+          "matchNumber": "Match 17",
+          "venue": " Southampton",
+          "matchResult": "SOB-W Won By 10 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "SOB-W",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "TRT-W",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "TRT-W",
+              "teamID": "2035",
+              "teamFullName": "Trent Rockets Women",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Trent Rockets Women",
+                  "runsScored": "88",
+                  "wickets": "8",
+                  "overs": "20.0",
+                  "runRate": "4.4",
+                  "battingSide": "away",
+                  "teamID": "2035",
+                  "battingTeamShortName": "TRT-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "SOB-W",
+              "teamID": "2034",
+              "teamFullName": "Southern Brave Women",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Southern Brave Women",
+                  "runsScored": "94",
+                  "wickets": "0",
+                  "overs": "11.1",
+                  "runRate": "8.39",
+                  "battingSide": "home",
+                  "teamID": "2034",
+                  "battingTeamShortName": "SOB-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661457600000",
+          "playerID": "69906",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Lauren Bell",
+          "playerofTheMatchTeamShortName": "SOB-W",
+          "firstInningsTeamID": "2035",
+          "secondInningsTeamID": "2034",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2259",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "London Spirit Women",
+          "seriesName": "The Hundred Women, 2022",
+          "homeTeamName": "LNS-W",
+          "awayTeamName": "WEF-W",
+          "toss": "Welsh Fire Women won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209676",
+          "matchType": "T100",
+          "statusMessage": "London Spirit Women beat Welsh Fire Women by 8 wickets",
+          "matchNumber": "Match 16",
+          "venue": " London",
+          "matchResult": "LNS-W Won By 8 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "LNS-W",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "WEF-W",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "WEF-W",
+              "teamID": "2036",
+              "teamFullName": "Welsh Fire Women",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Welsh Fire Women",
+                  "runsScored": "119",
+                  "wickets": "9",
+                  "overs": "20.0",
+                  "runRate": "5.95",
+                  "battingSide": "away",
+                  "teamID": "2036",
+                  "battingTeamShortName": "WEF-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "LNS-W",
+              "teamID": "2030",
+              "teamFullName": "London Spirit Women",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "London Spirit Women",
+                  "runsScored": "122",
+                  "wickets": "2",
+                  "overs": "17.1",
+                  "runRate": "7.09",
+                  "battingSide": "home",
+                  "teamID": "2030",
+                  "battingTeamShortName": "LNS-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661369400000",
+          "playerID": "64853",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Beth Mooney",
+          "playerofTheMatchTeamShortName": "LNS-W",
+          "firstInningsTeamID": "2036",
+          "secondInningsTeamID": "2030",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 28,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2629",
+      "matchType": "T20",
+      "seriesName": "Maharaja Trophy T20, 2022",
+      "matches": [
+        {
+          "seriesID": "2629",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Bengaluru Blasters",
+          "seriesName": "Maharaja Trophy T20, 2022",
+          "homeTeamName": "BB",
+          "awayTeamName": "GMY",
+          "toss": "Bengaluru Blasters won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215264",
+          "matchType": "T20",
+          "statusMessage": "Gulbarga Mystics beat Bengaluru Blasters by 11 runs",
+          "matchNumber": "Final",
+          "venue": " Bengaluru",
+          "matchResult": "GMY Won By 11 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "BB",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "GMY",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "GMY",
+              "teamID": "3208",
+              "teamFullName": "Gulbarga Mystics",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Gulbarga Mystics",
+                  "runsScored": "220",
+                  "wickets": "3",
+                  "overs": "20.0",
+                  "runRate": "11",
+                  "battingSide": "away",
+                  "teamID": "3208",
+                  "battingTeamShortName": "GMY",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "BB",
+              "teamID": "1601",
+              "teamFullName": "Bengaluru Blasters",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Bengaluru Blasters",
+                  "runsScored": "209",
+                  "wickets": "9",
+                  "overs": "20.0",
+                  "runRate": "10.45",
+                  "battingSide": "home",
+                  "teamID": "1601",
+                  "battingTeamShortName": "BB",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661540400000",
+          "playerID": "4276",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Manish Pandey",
+          "playerofTheMatchTeamShortName": "GMY",
+          "firstInningsTeamID": "3208",
+          "secondInningsTeamID": "1601",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2629",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Gulbarga Mystics",
+          "seriesName": "Maharaja Trophy T20, 2022",
+          "homeTeamName": "GMY",
+          "awayTeamName": "MW",
+          "toss": "Gulbarga Mystics won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215261",
+          "matchType": "T20",
+          "statusMessage": "Gulbarga Mystics beat Mysore Warriors by 6 wickets",
+          "matchNumber": "Qualifier 2",
+          "venue": " Bengaluru",
+          "matchResult": "GMY Won By 6 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "GMY",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "MW",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "MW",
+              "teamID": "1489",
+              "teamFullName": "Mysore Warriors",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Mysore Warriors",
+                  "runsScored": "157",
+                  "wickets": "5",
+                  "overs": "20.0",
+                  "runRate": "7.85",
+                  "battingSide": "away",
+                  "teamID": "1489",
+                  "battingTeamShortName": "MW",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "GMY",
+              "teamID": "3208",
+              "teamFullName": "Gulbarga Mystics",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Gulbarga Mystics",
+                  "runsScored": "158",
+                  "wickets": "4",
+                  "overs": "19.4",
+                  "runRate": "8.03",
+                  "battingSide": "home",
+                  "teamID": "3208",
+                  "battingTeamShortName": "GMY",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661454000000",
+          "playerID": "67589",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Devdutt Padikkal",
+          "playerofTheMatchTeamShortName": "GMY",
+          "firstInningsTeamID": "1489",
+          "secondInningsTeamID": "3208",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2629",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Gulbarga Mystics",
+          "seriesName": "Maharaja Trophy T20, 2022",
+          "homeTeamName": "BB",
+          "awayTeamName": "GMY",
+          "toss": "Gulbarga Mystics won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215260",
+          "matchType": "T20",
+          "statusMessage": "Bengaluru Blasters beat Gulbarga Mystics by 44 runs",
+          "matchNumber": "Qualifier 1",
+          "venue": " Bengaluru",
+          "matchResult": "BB Won By 44 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "BB",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "GMY",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "BB",
+              "teamID": "1601",
+              "teamFullName": "Bengaluru Blasters",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Bengaluru Blasters",
+                  "runsScored": "227",
+                  "wickets": "3",
+                  "overs": "20.0",
+                  "runRate": "11.35",
+                  "battingSide": "home",
+                  "teamID": "1601",
+                  "battingTeamShortName": "BB",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "GMY",
+              "teamID": "3208",
+              "teamFullName": "Gulbarga Mystics",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Gulbarga Mystics",
+                  "runsScored": "183",
+                  "wickets": "10",
+                  "overs": "18.2",
+                  "runRate": "9.98",
+                  "battingSide": "away",
+                  "teamID": "3208",
+                  "battingTeamShortName": "GMY",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661281200000",
+          "playerID": "10115",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Mayank Agarwal",
+          "playerofTheMatchTeamShortName": "BB",
+          "firstInningsTeamID": "1601",
+          "secondInningsTeamID": "3208",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 29,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2264",
+      "matchType": "ODI",
+      "seriesName": "Royal London One-Day Cup, 2022",
+      "matches": [
+        {
+          "seriesID": "2264",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Lancashire",
+          "seriesName": "Royal London One-Day Cup, 2022",
+          "homeTeamName": "LAN",
+          "awayTeamName": "NOT",
+          "toss": "Lancashire won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209648",
+          "matchType": "ODI",
+          "statusMessage": "Lancashire beat Nottinghamshire by 3 wickets",
+          "matchNumber": "Quarter Final 2",
+          "venue": " Blackpool",
+          "matchResult": "LAN Won By 3 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "LAN",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "NOT",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "NOT",
+              "teamID": "660",
+              "teamFullName": "Nottinghamshire",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Nottinghamshire",
+                  "runsScored": "338",
+                  "wickets": "8",
+                  "overs": "50.0",
+                  "runRate": "6.76",
+                  "battingSide": "away",
+                  "teamID": "660",
+                  "battingTeamShortName": "NOT",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "LAN",
+              "teamID": "492",
+              "teamFullName": "Lancashire",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Lancashire",
+                  "runsScored": "341",
+                  "wickets": "7",
+                  "overs": "48.3",
+                  "runRate": "7.03",
+                  "battingSide": "home",
+                  "teamID": "492",
+                  "battingTeamShortName": "LAN",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661527800000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "LAN",
+          "firstInningsTeamID": "660",
+          "secondInningsTeamID": "492",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2264",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Leicestershire",
+          "seriesName": "Royal London One-Day Cup, 2022",
+          "homeTeamName": "LEI",
+          "awayTeamName": "KET",
+          "toss": "Leicestershire won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209647",
+          "matchType": "ODI",
+          "statusMessage": "Kent beat Leicestershire by 81 runs",
+          "matchNumber": "Quarter Final 1",
+          "venue": " Leicester",
+          "matchResult": "KET Won By 81 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "LEI",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "KET",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "KET",
+              "teamID": "469",
+              "teamFullName": "Kent",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Kent",
+                  "runsScored": "325",
+                  "wickets": "8",
+                  "overs": "50.0",
+                  "runRate": "6.5",
+                  "battingSide": "away",
+                  "teamID": "469",
+                  "battingTeamShortName": "KET",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "LEI",
+              "teamID": "506",
+              "teamFullName": "Leicestershire",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Leicestershire",
+                  "runsScored": "244",
+                  "wickets": "10",
+                  "overs": "42.4",
+                  "runRate": "5.72",
+                  "battingSide": "home",
+                  "teamID": "506",
+                  "battingTeamShortName": "LEI",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661527800000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "LEI",
+          "firstInningsTeamID": "469",
+          "secondInningsTeamID": "506",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2264",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Nottinghamshire",
+          "seriesName": "Royal London One-Day Cup, 2022",
+          "homeTeamName": "NOT",
+          "awayTeamName": "SUR",
+          "toss": "Nottinghamshire won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "209646",
+          "matchType": "ODI",
+          "statusMessage": "Nottinghamshire beat Surrey by 8 wickets",
+          "matchNumber": "Match 72",
+          "venue": " Market Warsop",
+          "matchResult": "NOT Won By 8 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "NOT",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "SUR",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "SUR",
+              "teamID": "944",
+              "teamFullName": "Surrey",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Surrey",
+                  "runsScored": "181",
+                  "wickets": "10",
+                  "overs": "39.2",
+                  "runRate": "4.6",
+                  "battingSide": "away",
+                  "teamID": "944",
+                  "battingTeamShortName": "SUR",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "NOT",
+              "teamID": "660",
+              "teamFullName": "Nottinghamshire",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Nottinghamshire",
+                  "runsScored": "182",
+                  "wickets": "2",
+                  "overs": "31.5",
+                  "runRate": "5.72",
+                  "battingSide": "home",
+                  "teamID": "660",
+                  "battingTeamShortName": "NOT",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661268600000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "NOT",
+          "firstInningsTeamID": "944",
+          "secondInningsTeamID": "660",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 30,
+      "seriesView": true,
+      "seriesAvailable": true,
+      "seriesID": "2662",
+      "matchType": "T20",
+      "seriesName": "Assam T20 Challengers Trophy, 2022",
+      "matches": [
+        {
+          "seriesID": "2662",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Manas Tigers",
+          "seriesName": "Assam T20 Challengers Trophy, 2022",
+          "homeTeamName": "MTI",
+          "awayTeamName": "DPR",
+          "toss": "Dihing Patkai Riders won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215890",
+          "matchType": "T20",
+          "statusMessage": "Dihing Patkai Riders beat Manas Tigers by 8 runs",
+          "matchNumber": "Match 6",
+          "venue": " Guwahati",
+          "matchResult": "DPR Won By 8 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "MTI",
+            "homeTeamPercentage": "0",
+            "awayTeamShortName": "DPR",
+            "awayTeamPercentage": "100",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "DPR",
+              "teamID": "2802",
+              "teamFullName": "Dihing Patkai Riders",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Dihing Patkai Riders",
+                  "runsScored": "118",
+                  "wickets": "9",
+                  "overs": "20.0",
+                  "runRate": "5.9",
+                  "battingSide": "away",
+                  "teamID": "2802",
+                  "battingTeamShortName": "DPR",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "MTI",
+              "teamID": "2797",
+              "teamFullName": "Manas Tigers",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Manas Tigers",
+                  "runsScored": "110",
+                  "wickets": "8",
+                  "overs": "20.0",
+                  "runRate": "5.5",
+                  "battingSide": "home",
+                  "teamID": "2797",
+                  "battingTeamShortName": "MTI",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661517000000",
+          "playerID": "68161",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Nipan Deka",
+          "playerofTheMatchTeamShortName": "DPR",
+          "firstInningsTeamID": "2802",
+          "secondInningsTeamID": "2797",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2662",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Subansiri Champs",
+          "seriesName": "Assam T20 Challengers Trophy, 2022",
+          "homeTeamName": "BRB",
+          "awayTeamName": "SBC",
+          "toss": "Brahmaputra Boys won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215889",
+          "matchType": "T20",
+          "statusMessage": "Brahmaputra Boys beat Subansiri Champs by 12 runs",
+          "matchNumber": "Match 5",
+          "venue": " Guwahati",
+          "matchResult": "BRB Won By 12 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "BRB",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "SBC",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "BRB",
+              "teamID": "2798",
+              "teamFullName": "Brahmaputra Boys",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Brahmaputra Boys",
+                  "runsScored": "144",
+                  "wickets": "4",
+                  "overs": "20.0",
+                  "runRate": "7.2",
+                  "battingSide": "home",
+                  "teamID": "2798",
+                  "battingTeamShortName": "BRB",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "SBC",
+              "teamID": "2800",
+              "teamFullName": "Subansiri Champs",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Subansiri Champs",
+                  "runsScored": "132",
+                  "wickets": "9",
+                  "overs": "20.0",
+                  "runRate": "6.6",
+                  "battingSide": "away",
+                  "teamID": "2800",
+                  "battingTeamShortName": "SBC",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661502600000",
+          "playerID": "15363",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Krishna Das",
+          "playerofTheMatchTeamShortName": "BRB",
+          "firstInningsTeamID": "2798",
+          "secondInningsTeamID": "2800",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        },
+        {
+          "seriesID": "2662",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Kaziranga Heroes",
+          "seriesName": "Assam T20 Challengers Trophy, 2022",
+          "homeTeamName": "BHB",
+          "awayTeamName": "KAH",
+          "toss": "Barak Bravehearts won the toss and elected to bat",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215888",
+          "matchType": "T20",
+          "statusMessage": "Barak Bravehearts beat Kaziranga Heroes by 5 runs",
+          "matchNumber": "Match 4",
+          "venue": " Guwahati",
+          "matchResult": "BHB Won By 5 runs",
+          "teamsWinProbability": {
+            "homeTeamShortName": "BHB",
+            "homeTeamPercentage": "100",
+            "awayTeamShortName": "KAH",
+            "awayTeamPercentage": "0",
+            "tiePercentage": "0"
+          },
+          "matchScore": [
+            {
+              "teamShortName": "BHB",
+              "teamID": "2801",
+              "teamFullName": "Barak Bravehearts",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Barak Bravehearts",
+                  "runsScored": "122",
+                  "wickets": "8",
+                  "overs": "20.0",
+                  "runRate": "6.1",
+                  "battingSide": "home",
+                  "teamID": "2801",
+                  "battingTeamShortName": "BHB",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "KAH",
+              "teamID": "2799",
+              "teamFullName": "Kaziranga Heroes",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Kaziranga Heroes",
+                  "runsScored": "117",
+                  "wickets": "5",
+                  "overs": "20.0",
+                  "runRate": "5.85",
+                  "battingSide": "away",
+                  "teamID": "2799",
+                  "battingTeamShortName": "KAH",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661430600000",
+          "playerID": "87851",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "Dharani Rabha",
+          "playerofTheMatchTeamShortName": "BHB",
+          "firstInningsTeamID": "2801",
+          "secondInningsTeamID": "2799",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    },
+    {"id": 31,
+      "seriesView": true,
+      "seriesAvailable": false,
+      "seriesID": "2672",
+      "matchType": "T20",
+      "seriesName": "Women's Exhibition Matches, 2022",
+      "matches": [
+        {
+          "seriesID": "2672",
+          "league": "Domestic",
+          "currentinningsNo": "2",
+          "currentInningsTeamName": "Bengaluru Blasters Women",
+          "seriesName": "Women's Exhibition Matches, 2022",
+          "homeTeamName": "BB-W",
+          "awayTeamName": "HT-W",
+          "toss": "Bengaluru Blasters Women won the toss and elected to field",
+          "startEndDate": null,
+          "matchStatus": "completed",
+          "matchID": "215973",
+          "matchType": "T20",
+          "statusMessage": "Bengaluru Blasters Women beat Hubli Tigers Women by 7 wickets",
+          "matchNumber": "Exhibition Match",
+          "venue": " Bengaluru",
+          "matchResult": "BB-W Won By 7 wickets",
+          "teamsWinProbability": {
+            "homeTeamShortName": "",
+            "homeTeamPercentage": "",
+            "awayTeamShortName": "",
+            "awayTeamPercentage": "",
+            "tiePercentage": ""
+          },
+          "matchScore": [
+            {
+              "teamShortName": "HT-W",
+              "teamID": "3235",
+              "teamFullName": "Hubli Tigers Women",
+              "teamScore": [
+                {
+                  "inning": 1,
+                  "inningNumber": "First",
+                  "battingTeam": "Hubli Tigers Women",
+                  "runsScored": "133",
+                  "wickets": "4",
+                  "overs": "20.0",
+                  "runRate": "6.65",
+                  "battingSide": "away",
+                  "teamID": "3235",
+                  "battingTeamShortName": "HT-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            },
+            {
+              "teamShortName": "BB-W",
+              "teamID": "3234",
+              "teamFullName": "Bengaluru Blasters Women",
+              "teamScore": [
+                {
+                  "inning": 2,
+                  "inningNumber": "Second",
+                  "battingTeam": "Bengaluru Blasters Women",
+                  "runsScored": "139",
+                  "wickets": "3",
+                  "overs": "19.2",
+                  "runRate": "7.19",
+                  "battingSide": "home",
+                  "teamID": "3234",
+                  "battingTeamShortName": "BB-W",
+                  "declared": false,
+                  "folowOn": false
+                }
+              ]
+            }
+          ],
+          "startDate": "1661436000000",
+          "playerID": "",
+          "playing11Status": true,
+          "probable11Status": true,
+          "playerOfTheMatch": "",
+          "playerofTheMatchTeamShortName": "BB-W",
+          "firstInningsTeamID": "3235",
+          "secondInningsTeamID": "3234",
+          "thirdInningsTeamID": "",
+          "fourthInningsTeamID": ""
+        }
+      ]
+    }
+
                 "matchScore": [
                   {
                     "teamShortName": "USA",
@@ -3217,6 +5580,7 @@
   
 
        
+
   ],
 
   "criclytics": [
