@@ -104,6 +104,8 @@ export const Navbar = () => {
                 width="22px"
               />
               <p>More</p>
+              
+              
             </div>
           </Link>
         </div>
