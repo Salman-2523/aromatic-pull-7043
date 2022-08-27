@@ -10,13 +10,11 @@ import { MainRoutes } from "./routes/MainRoutes";
 function App() {
   return (
     <div className="App">
-{/* <Navbar />
-      <Footer /> */}
-{/* <MainRoutes /> */}
-<News />
-{/* <Navbar />
+
+{/* <News /> */}
+<Navbar />
 <MainRoutes />
-<Footer /> */}
+<Footer />
 </div>
 
   );
