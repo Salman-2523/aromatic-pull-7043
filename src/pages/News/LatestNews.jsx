@@ -12,7 +12,6 @@ const LatestNews = () => {
   dispatch(getData())
  }
   },[])
-
   return (
     <div className='fw_13-container'>
     {
