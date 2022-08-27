@@ -4,9 +4,12 @@ import NewsNav from '../../pages/News/NewsNav'
  import "../../styles/News.css"
 const News = () => {
   return (
-    <div className='fw13-main-container'>
-   <div  className='fw13-nav-container'>  <NewsNav /></div>
-  <div className='fw13-detail-container'>  <NewsAllRoute/></div>
+    <div className='fw13-main-container' >
+  
+    <NewsNav />
+ 
+ 
+   <NewsAllRoute/>
   
     </div>
   )

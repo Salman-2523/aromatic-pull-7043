@@ -19,7 +19,7 @@ const AllNews = () => {
     <div className='fw_13-container'>
     {
       data.map((item)=>{
-        return  <SingelPage item={item} />
+        return  <SingelPage item={item}  key={item.id}/>
       })
     }
     </div>
