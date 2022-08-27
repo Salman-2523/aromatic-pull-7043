@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/Fantasy.css";
+import "../styles/Fantasy.css"
 import axios from 'axios';
 import {useState,useEffect} from 'react';
 import Comolete from '../components/FantasyCenter/Comolete';

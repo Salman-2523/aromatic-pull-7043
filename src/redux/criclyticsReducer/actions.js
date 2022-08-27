@@ -1,8 +1,5 @@
 import axios from 'axios';
 import * as types from './actionTypes';
-
-
-
 export const getCriclyticsApi=()=>(dispatch)=>{
 
     dispatch({type:types.GET_CRICLYTICS_REQUEST});

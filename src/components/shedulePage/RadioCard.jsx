@@ -18,6 +18,7 @@ const RadioCard = (props) => {
               borderRadius='md'
               minWidth='200px'
               minHeight='30px'
+              textAlign='center'
               _checked={{
                 bg: 'red.700',
                 color: 'white',
