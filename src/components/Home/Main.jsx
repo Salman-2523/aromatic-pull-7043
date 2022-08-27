@@ -4,7 +4,7 @@ import { MainCard } from "./MainCard";
 export const Main = () => {
   return (
     <Box className="hero-container">
-      <Box  w="68%" h="2300px" className="hero">
+      <Box  w="68%" h="2290px" className="hero">
         <Box w="100%" h="366px"  marginBottom="1rem">
           <Flex w="100%" bg="#172132" h="43px" justifyContent={"space-between"}>
             <Flex

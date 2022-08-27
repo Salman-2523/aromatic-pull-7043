@@ -4,12 +4,18 @@ import { Navbar } from "./components/Home/Navbar";
 import { MainRoutes } from "./routes/MainRoutes";
 function App() {
   return (
-    <div >
-<Navbar />
-<MainRoutes />
-<Footer />
-</div>
-    );
+
+ <div>
+
+
+      <Navbar />
+      <MainRoutes />
+      <Footer />
+    </div>
+
+
+  );
+
 }
 
 export default App;

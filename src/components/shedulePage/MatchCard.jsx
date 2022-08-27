@@ -1,6 +1,6 @@
 import React from "react";
 import { Avatar, Box, Flex, Image, Spacer, Text } from "@chakra-ui/react";
-
+import { MdLocationPin } from "react-icons/md";
 const MatchCard = ({ data }) => {
   return (
     <Box boxShadow="md" minHeight="180px" padding="10px" width="300px">
@@ -18,7 +18,7 @@ const MatchCard = ({ data }) => {
         </Text>
         <Text>{data.matchNumber}</Text>
       </Flex>
-      <Flex>{data.venue}</Flex>
+      <Flex textAlign='center' fontSize='20px'><MdLocationPin color='gray' /><Text fontSize='15px' >{data.venue}</Text></Flex>
       <Flex>
         <Box>
           <Flex>
