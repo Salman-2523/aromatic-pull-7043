@@ -5,7 +5,7 @@ const getData = (dispatch) => {
     dispatch({type:types.GET_DATA_REQUEST})
   return axios.get("http://localhost:8080/upcomingAll")
               .then((r) => {
-                console.log(r.data)
+                // console.log(r.data)
                  dispatch({type:types.GET_DATA_SUCCESS,payload:r.data})
               }) 
               .catch(e => {
@@ -25,4 +25,16 @@ return axios.get("http://localhost:8080/upcomingInter")
 }
 
 
-export {getData,getUpInter}
+const getCompAll = (dispatch) => {
+  // dispatch({type:types.GET_ITEM_REQUEST})
+return axios.get("http://localhost:8080/completedAll")
+            .then((r) => {
+              return dispatch({type:types.GET_COMP_SUCCESS,payload:r.data})
+            }) 
+            // .catch(e => {
+            //   return dispatch({type:types.GET_DATA_FAILURE,payload:e})
+            // }) 
+}
+
+
+export {getData,getUpInter,getCompAll}

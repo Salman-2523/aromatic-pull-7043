@@ -8,7 +8,7 @@ const initialState = {
 
 export const seriesReducer = (state=initialState,action) => {
     const {type,payload} = action;
-    console.log(payload)
+    // console.log(payload)
     switch(type){
         case types.GET_DATA_SUCCESS:
             return {

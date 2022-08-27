@@ -71,6 +71,14 @@
       "endingDate": "Sep 11th"
     },
 
+        {
+            "id":"1",
+            "match":"Zimbabwe tour of Australia,2022",
+            "total":4,
+            "type":"T20s",
+            "startingDate":"Jan 8th",
+            "endingDate":"Dec 17th"
+
     {
       "id": "9",
       "match": "Nepal tour of Kenya,2022",
@@ -79,6 +87,7 @@
       "startingDate": "Aug 25th",
       "endingDate": "Aug 30th"
     },
+
 
     {
       "id": "10",
@@ -89,6 +98,15 @@
       "endingDate": "Aug 28th"
     },
 
+
+        {
+            "id":"2",
+            "match":"New zealand tour of Australia 2022",
+            "total":4,
+            "type":"T20s",
+            "startingDate":"Dec 17th",
+            "endingDate":"Jan 8th"
+
     {
       "id": "11",
       "match": "The 6ixty,2022",
@@ -97,6 +115,7 @@
       "startingDate": "Aug 25th",
       "endingDate": "Aug 29th"
     },
+
 
     {
       "id": "12",
@@ -107,6 +126,15 @@
       "endingDate": "Aug 28th"
     },
 
+
+        {
+            "id":"3",
+            "match":"Westindies tour of Australia 2022",
+            "total":4,
+            "type":"T20s",
+            "startingDate":"Jan 8th",
+            "endingDate":"Dec 17th"
+
     {
       "id": "13",
       "match": "FairBreak XI tour of Netherlands,2022",
@@ -116,6 +144,7 @@
       "endingDate": "Aug 28th"
     },
 
+
     {
       "id": "14",
       "match": "Women's Exhibition Matches,2022",
@@ -124,6 +153,15 @@
       "startingDate": "Aug 25th",
       "endingDate": "Aug 26th"
     },
+
+
+        {
+            "id":"4",
+            "match":"England Tour of Australia 2022",
+            "total":4,
+            "type":"T20s",
+            "startingDate":"Dec 17th",
+            "endingDate":"Jan 8th"
 
     {
       "id": "15",
@@ -135,6 +173,7 @@
     }
   ],
 
+
   "upcomingInter": [
     {
       "id": "1",
@@ -145,6 +184,46 @@
       "endingDate": ""
     },
 
+
+        
+        }
+
+      ],
+
+        "completedAll":[
+          {
+            "id":"1",
+            "match":"Westindies tour of Australia 2022",
+            "total":4,
+            "type":"T20s",
+            "startingDate":"Jan 8th",
+            "endingDate":"Dec 17th"
+
+        
+        },
+
+        {
+            "id":"2",
+            "match":"England Tour of Australia 2022",
+            "total":4,
+            "type":"T20s",
+            "startingDate":"Dec 17th",
+            "endingDate":"Jan 8th"
+
+        
+        },
+        {
+            "id":"3",
+            "match":"SouthAfrica Tour of Australia 2022/23",
+            "total":3,
+            "type":"Test",
+            "startingDate":"Dec 17th",
+            "endingDate":"Jan 8th"
+        }  
+        ],
+       
+   
+
     {
       "id": "2",
       "match": "New zealand tour of Australia 2022",
@@ -153,6 +232,7 @@
       "startingDate": "",
       "endingDate": ""
     },
+
 
     {
       "id": "3",
