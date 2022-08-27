@@ -16,15 +16,17 @@
     font-weight: 500;
     line-height: 14px;
     margin-top: 8px;
-    margin-left: -13%;
+    margin-left: 22%;
+    margin-bottom: 10px;
     font-family:Montserrat - 500; 
 }
 .com{
     color: white; 
-    margin-left: -25%;
+    margin-left: 22%;
     font-family: Montserrat - 700;
     font-weight: 700;
     font-size: 14px;
+    margin-top: 5px;
 }
 .winT{
     border: 1px solid yellow;
