@@ -5,7 +5,7 @@ export const Navbar = () => {
   return (
     <div className="nav-container">
       <div className="nav">
-        <img src="https://www.cricket.com/cricket.com.svg" alt="" />
+      <Link to = '/'>  <img src="https://www.cricket.com/cricket.com.svg" alt="" /></Link>
         <div className="main-nav">
           <Link to="/fantasy-research-center">
             <div className="item">
@@ -104,6 +104,8 @@ export const Navbar = () => {
                 width="22px"
               />
               <p>More</p>
+              
+              
             </div>
           </Link>
         </div>

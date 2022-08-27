@@ -5,11 +5,13 @@ import thunk from "redux-thunk";
 import { criclyticsReducer } from "./criclyticsReducer/reducer";
 import { sheduleReducer } from "./sheduleReducer/reducer";
 import {seriesReducer} from './seriesreducer/reducer'
+import { newsReducer } from "./newsReducer/reducer";
 
 const rootReducer=combineReducers({
     sheduleReducer:sheduleReducer,
     criclyticsReducer:criclyticsReducer,
-    seriesReducer:seriesReducer
+    seriesReducer:seriesReducer,
+    newsReducer: newsReducer
 
 });
 

@@ -6,17 +6,18 @@ import MatchRelated from "./MatchRelated"
 import LatestNews from './LatestNews'
 import ThisDay from './ThisDay'
 import Feature from "./Feature"
+import DetailPage from './DetailPage'
 const NewsAllRoute = () => {
   return (
     <div>
-      <h2>Route</h2>
+ 
       <Routes>
-        <Route  path="/" element={<LatestNews/>} />
-   <Route  path='/news' element={<AllNews/>} />
-   <Route path='/thisday' element={<ThisDay/>} />
-       <Route path="/match" element={<MatchRelated />} />
-       <Route path='/feature' element={<Feature />} />
-
+        <Route exact path="/latest" element={<LatestNews/>} />
+   <Route exact path='/news/*' element={<AllNews/>} />
+   <Route exact path='/thisday' element={<ThisDay/>} />
+       <Route exact path="/match" element={<MatchRelated />} />
+       <Route exact path='/feature' element={<Feature />} />
+       <Route path="/:end/:id" element={<DetailPage/>} />
       </Routes>
     </div>
   )

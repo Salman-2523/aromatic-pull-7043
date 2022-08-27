@@ -1,0 +1,42 @@
+
+.fw13-single-conatiner{
+    width: 100%;
+    height: 220px;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    
+
+  margin: 5px;
+}
+
+.fw13-img-conatiner{
+    width: 45%;
+    height:98%;
+    margin: 5px;
+    
+
+}
+.fw13-img-conatiner >img{
+    width: 95%;
+    height: 95%;
+    box-sizing: border-box;
+}
+.fw13-detail-conatiner{
+    width: 45%;
+    height: 98%;
+    margin: 5px;
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.fw13_188_date{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+
+}

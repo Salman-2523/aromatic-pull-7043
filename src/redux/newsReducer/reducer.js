@@ -6,39 +6,27 @@ const initialState = {
     isError:false
 }
 
-export const seriesReducer = (state=initialState,action) => {
+export const newsReducer = (state=initialState,action) => {
     const {type,payload} = action;
     // console.log(payload)
     switch(type){
-        case types.GET_DATA_SUCCESS:
+        case types.GET_NEWS_SUCCESS:
             return {
                 ...state,
                 data:payload,
                 isLoading:false,
                 isError:false
             }
-            case types.GET_ITEM_SUCCESS:
-            return {
-                ...state,
-                data:payload,
-                isLoading:false,
-                isError:false
-            }
+           
 
-        case types.GET_DATA_REQUEST:
+        case types.GET_NEWS_REQUEST:
             return {
                 ...state,
                 isLoading:true,
                 isError:false
             }
-
-            case types.GET_ITEM_REQUEST:
-                return {
-                    ...state,
-                    isLoading:true,
-                    isError:false
-                }   
-        case types.GET_DATA_FAILURE:
+ 
+        case types.GET_NEWS_FAILURE:
             return {
                 ...state,
                 isLoading:false,

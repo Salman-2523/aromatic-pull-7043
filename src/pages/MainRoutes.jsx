@@ -35,10 +35,10 @@ const MainRoutes = () => {
                 <Route path="/upcoming" element={<Upcoming />}>
                     <Route index element={ <All />} />
                    <Route path="all" element={ 
-                     upcomingAllData?.map((item)=>{
-                            // console.log(item.match)
-                        return    <Series key={item.id} item={item} />
-                        })
+                    //  upcomingAllData?.map((item)=>{
+                            // console.log(item)
+                            <All  />
+                        // })
                         } />
                    <Route path="international" element={
                     upcomingAllData.map((item)=>{
