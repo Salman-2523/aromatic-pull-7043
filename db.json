@@ -71,14 +71,14 @@
       "endingDate": "Sep 11th"
     },
 
-        {
-            "id":"1",
-            "match":"Zimbabwe tour of Australia,2022",
-            "total":4,
-            "type":"T20s",
-            "startingDate":"Jan 8th",
-            "endingDate":"Dec 17th"
-
+    {
+      "id": "1",
+      "match": "Zimbabwe tour of Australia,2022",
+      "total": 4,
+      "type": "T20s",
+      "startingDate": "Jan 8th",
+      "endingDate": "Dec 17th"
+    },
     {
       "id": "9",
       "match": "Nepal tour of Kenya,2022",
@@ -87,7 +87,6 @@
       "startingDate": "Aug 25th",
       "endingDate": "Aug 30th"
     },
-
 
     {
       "id": "10",
@@ -98,15 +97,14 @@
       "endingDate": "Aug 28th"
     },
 
-
-        {
-            "id":"2",
-            "match":"New zealand tour of Australia 2022",
-            "total":4,
-            "type":"T20s",
-            "startingDate":"Dec 17th",
-            "endingDate":"Jan 8th"
-
+    {
+      "id": "2",
+      "match": "New zealand tour of Australia 2022",
+      "total": 4,
+      "type": "T20s",
+      "startingDate": "Dec 17th",
+      "endingDate": "Jan 8th"
+    },
     {
       "id": "11",
       "match": "The 6ixty,2022",
@@ -115,7 +113,6 @@
       "startingDate": "Aug 25th",
       "endingDate": "Aug 29th"
     },
-
 
     {
       "id": "12",
@@ -126,14 +123,14 @@
       "endingDate": "Aug 28th"
     },
 
-
-        {
-            "id":"3",
-            "match":"Westindies tour of Australia 2022",
-            "total":4,
-            "type":"T20s",
-            "startingDate":"Jan 8th",
-            "endingDate":"Dec 17th"
+    {
+      "id": "3",
+      "match": "Westindies tour of Australia 2022",
+      "total": 4,
+      "type": "T20s",
+      "startingDate": "Jan 8th",
+      "endingDate": "Dec 17th"
+    },
 
     {
       "id": "13",
@@ -144,7 +141,6 @@
       "endingDate": "Aug 28th"
     },
 
-
     {
       "id": "14",
       "match": "Women's Exhibition Matches,2022",
@@ -154,14 +150,14 @@
       "endingDate": "Aug 26th"
     },
 
-
-        {
-            "id":"4",
-            "match":"England Tour of Australia 2022",
-            "total":4,
-            "type":"T20s",
-            "startingDate":"Dec 17th",
-            "endingDate":"Jan 8th"
+    {
+      "id": "4",
+      "match": "England Tour of Australia 2022",
+      "total": 4,
+      "type": "T20s",
+      "startingDate": "Dec 17th",
+      "endingDate": "Jan 8th"
+    },
 
     {
       "id": "15",
@@ -173,7 +169,6 @@
     }
   ],
 
-
   "upcomingInter": [
     {
       "id": "1",
@@ -182,47 +177,35 @@
       "type": "T20s",
       "startingDate": "",
       "endingDate": ""
+    }
+  ],
+
+  "completedAll": [
+    {
+      "id": "1",
+      "match": "Westindies tour of Australia 2022",
+      "total": 4,
+      "type": "T20s",
+      "startingDate": "Jan 8th",
+      "endingDate": "Dec 17th"
     },
 
-
-        
-        }
-
-      ],
-
-        "completedAll":[
-          {
-            "id":"1",
-            "match":"Westindies tour of Australia 2022",
-            "total":4,
-            "type":"T20s",
-            "startingDate":"Jan 8th",
-            "endingDate":"Dec 17th"
-
-        
-        },
-
-        {
-            "id":"2",
-            "match":"England Tour of Australia 2022",
-            "total":4,
-            "type":"T20s",
-            "startingDate":"Dec 17th",
-            "endingDate":"Jan 8th"
-
-        
-        },
-        {
-            "id":"3",
-            "match":"SouthAfrica Tour of Australia 2022/23",
-            "total":3,
-            "type":"Test",
-            "startingDate":"Dec 17th",
-            "endingDate":"Jan 8th"
-        }  
-        ],
-       
-   
+    {
+      "id": "2",
+      "match": "England Tour of Australia 2022",
+      "total": 4,
+      "type": "T20s",
+      "startingDate": "Dec 17th",
+      "endingDate": "Jan 8th"
+    },
+    {
+      "id": "3",
+      "match": "SouthAfrica Tour of Australia 2022/23",
+      "total": 3,
+      "type": "Test",
+      "startingDate": "Dec 17th",
+      "endingDate": "Jan 8th"
+    },
 
     {
       "id": "2",
@@ -232,7 +215,6 @@
       "startingDate": "",
       "endingDate": ""
     },
-
 
     {
       "id": "3",
@@ -3332,7 +3314,8 @@
         }
       ]
     },
-    {"id": 22,
+    {
+      "id": 22,
       "seriesView": true,
       "seriesAvailable": false,
       "seriesID": "2648",
@@ -3499,7 +3482,8 @@
         }
       ]
     },
-    {"id": 23,
+    {
+      "id": 23,
       "seriesView": true,
       "seriesAvailable": false,
       "seriesID": "2575",
@@ -3745,7 +3729,8 @@
         }
       ]
     },
-    {"id": 24,
+    {
+      "id": 24,
       "seriesView": true,
       "seriesAvailable": true,
       "seriesID": "2649",
@@ -3991,7 +3976,8 @@
         }
       ]
     },
-    {"id": 25,
+    {
+      "id": 25,
       "seriesView": true,
       "seriesAvailable": true,
       "seriesID": "2260",
@@ -4237,7 +4223,8 @@
         }
       ]
     },
-    {"id": 26,
+    {
+      "id": 26,
       "seriesView": true,
       "seriesAvailable": true,
       "seriesID": "2653",
@@ -4483,7 +4470,8 @@
         }
       ]
     },
-    {"id": 27,
+    {
+      "id": 27,
       "seriesView": true,
       "seriesAvailable": true,
       "seriesID": "2259",
@@ -4729,7 +4717,8 @@
         }
       ]
     },
-    {"id": 28,
+    {
+      "id": 28,
       "seriesView": true,
       "seriesAvailable": true,
       "seriesID": "2629",
@@ -4975,7 +4964,8 @@
         }
       ]
     },
-    {"id": 29,
+    {
+      "id": 29,
       "seriesView": true,
       "seriesAvailable": true,
       "seriesID": "2264",
@@ -5221,7 +5211,8 @@
         }
       ]
     },
-    {"id": 30,
+    {
+      "id": 30,
       "seriesView": true,
       "seriesAvailable": true,
       "seriesID": "2662",
@@ -5467,7 +5458,8 @@
         }
       ]
     },
-    {"id": 31,
+    {
+      "id": 31,
       "seriesView": true,
       "seriesAvailable": false,
       "seriesID": "2672",
@@ -5554,89 +5546,75 @@
           "fourthInningsTeamID": ""
         }
       ]
-    }],
+    }
+  ],
 
- "matchScore": [
-                  {
-                    "teamShortName": "USA",
-                    "teamID": "22",
-                    "teamFullName": "USA",
-                    "teamScore": []
-                  },
-                  {
-                    "teamShortName": "NAM",
-                    "teamID": "20",
-                    "teamFullName": "Namibia",
-                    "teamScore": []
-                  }
-                ],
-               
-     
-    "newsdata":[
-      {
-        "id":1,
-        "imageUrl":
-          "https://images-cricketcom.imgix.net/news-1661344864512?auto=compress&dpr=2&w=1&h=200",
-          "heading":"Laxman named interim head coach for Asia Cup",
-           "subHeading":"The former India skipper has gone without an international hundred across formats for nearly three years now",
-           "desc":"Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
-           
-      },
-      {
-        "id":2,
-        "imageUrl":
-          "https://images-cricketcom.imgix.net/news-1661348574024?auto=compress&dpr=2&w=1&h=200",
-          "heading":"I know where my game stands:Kohli",
-           "subHeading":"The former India skipper has gone without an international hundred across formats for nearly three years now",
-           "desc":"Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
-      }
-,
-{
-  "id":3,
-  "imageUrl":
-    "https://images-cricketcom.imgix.net/news-1661351778510?auto=compress&dpr=2&w=1&h=200",
-    "heading":"Tilak, Umran and Kuldeep named in India A squad",
-     "subHeading":"India A will play three four-day games against New Zealand A in September",
-     "desc":"Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
-     
-},
-{
-  "id":4,
-  "imageUrl":
-    "https://images-cricketcom.imgix.net/news-1661351778510?auto=compress&dpr=2&w=1&h=200",
-    "heading":"Tilak, Umran and Kuldeep named in India A squad",
-     "subHeading":"India A will play three four-day games against New Zealand A in September"
-     
-},
-{
-  "id":5,
-  "imageUrl":
-    "https://images-cricketcom.imgix.net/news-1661350106530?auto=compress&dpr=2&w=1&h=200",
-    "heading":"Gill set to play four County Championship games for Glamorgan",
-     "subHeading":"He will become only the third Indian player after Ravi Shastri and Sourav Ganguly to play for Glamorgan in the County Championship",
-     "desc":"Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
-     
-},{
-  "id":6,
-  "imageUrl":
-    "https://images-cricketcom.imgix.net/news-1661186466215?auto=compress&dpr=2&w=1&h=200",
-    "heading":"Rahul disappoints, but Gill and ODIs are a match made in heaven",
-     "subHeading":"Sikandar Raza and Brad Evans tried their best but India managed to get over the line to complete a 3-0 clean sweep",
-     "desc":"Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
-     
-},
-{
-  "id":7,
-  "imageUrl":
-    "https://images-cricketcom.imgix.net/news-1661394564658?auto=compress&dpr=2&w=1&h=200",
-    "heading":"Fit-again Matt Henry returns for Australia ODIs",
-     "subHeading":"Meanwhile, Kyle Jamieson (back) and Adam Milne (achilles) were not considered due to injury",
-     "desc":"Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
-     
-}
-    ],
+  "matchScore": [
+    {
+      "teamShortName": "USA",
+      "teamID": "22",
+      "teamFullName": "USA",
+      "teamScore": []
+    },
+    {
+      "teamShortName": "NAM",
+      "teamID": "20",
+      "teamFullName": "Namibia",
+      "teamScore": []
+    }
+  ],
 
-  
+  "newsdata": [
+    {
+      "id": 1,
+      "imageUrl": "https://images-cricketcom.imgix.net/news-1661344864512?auto=compress&dpr=2&w=1&h=200",
+      "heading": "Laxman named interim head coach for Asia Cup",
+      "subHeading": "The former India skipper has gone without an international hundred across formats for nearly three years now",
+      "desc": "Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://images-cricketcom.imgix.net/news-1661348574024?auto=compress&dpr=2&w=1&h=200",
+      "heading": "I know where my game stands:Kohli",
+      "subHeading": "The former India skipper has gone without an international hundred across formats for nearly three years now",
+      "desc": "Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://images-cricketcom.imgix.net/news-1661351778510?auto=compress&dpr=2&w=1&h=200",
+      "heading": "Tilak, Umran and Kuldeep named in India A squad",
+      "subHeading": "India A will play three four-day games against New Zealand A in September",
+      "desc": "Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://images-cricketcom.imgix.net/news-1661351778510?auto=compress&dpr=2&w=1&h=200",
+      "heading": "Tilak, Umran and Kuldeep named in India A squad",
+      "subHeading": "India A will play three four-day games against New Zealand A in September"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://images-cricketcom.imgix.net/news-1661350106530?auto=compress&dpr=2&w=1&h=200",
+      "heading": "Gill set to play four County Championship games for Glamorgan",
+      "subHeading": "He will become only the third Indian player after Ravi Shastri and Sourav Ganguly to play for Glamorgan in the County Championship",
+      "desc": "Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://images-cricketcom.imgix.net/news-1661186466215?auto=compress&dpr=2&w=1&h=200",
+      "heading": "Rahul disappoints, but Gill and ODIs are a match made in heaven",
+      "subHeading": "Sikandar Raza and Brad Evans tried their best but India managed to get over the line to complete a 3-0 clean sweep",
+      "desc": "Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://images-cricketcom.imgix.net/news-1661394564658?auto=compress&dpr=2&w=1&h=200",
+      "heading": "Fit-again Matt Henry returns for Australia ODIs",
+      "subHeading": "Meanwhile, Kyle Jamieson (back) and Adam Milne (achilles) were not considered due to injury",
+      "desc": "Since starting out as a tournament for goodwill between nations in 1984, the Asia Cup has set itself apart as a unique tournament with over 14 editions since. It is the only continental tournament in international cricket and the only competition which will be played in the ODI and T20 formats biennially and alternatively.To be played in the T20 format this year, it frames the perfect opportunity for the five of the six participating nations to test themselves in a multi-team tournament before the upcoming T20 World Cup in Australia. Although the omission of three prime pacers due to injuries - Jasprit Bumrah, Shaheen Shah Afridi and Dushmantha Chameera - has taken some sheen off the competition, it still remains a key tournament from the World Cup perspective. In this space, we look at the areas each team would look to improve in the UAE.India will have a few other objectives. Their top-most priority would be Virat Kohli s form. The former Indian skipper averages 22.2 in T20s this year at a strike-rate of 118.2. He has missed a majority of the T20 internationals this year with the team doing well in his absence. A tough tournament for Kohli can put India in a precarious position regarding their star batter’s selection for the World Cup.KL Rahul will also have the spotlight on him. Returning to the side after a three-month break from rehab, Rahul managed only 31 runs in two ODI innings against Zimbabwe. While he is almost a certainty for the World Cup, India will be eager to see one of their gun batters get back to what he does the best. Last but not the least, this Asia Cup will decide who gets the remaining seam bowler’s spot in the World Cup squad. India have picked only three specialist pacers for this tournament out of which Arshdeep Singh and Avesh Khan are prime contenders for the mega-event Down Under. Arshdeep is currently ahead but things can take a twist"
+    }
+  ],
+
   "criclytics": [
     {
       "id": 1,
@@ -6327,5 +6305,4 @@
       "content": ""
     }
   ]
-
 }
