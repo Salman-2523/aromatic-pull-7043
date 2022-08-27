@@ -1,21 +1,42 @@
 import {React} from "react";
 import {useEffect} from "react";
 import { useDispatch } from "react-redux";
-import {getData} from "../redux/seriesreducer/action";
+import {getData,getCompAll} from "../redux/seriesreducer/action";
+import {useSelector} from "react-redux";
+import { useParams } from "react-router-dom";
 
-const All = ({item}) => {
+// import {useLocation} from "react-router-dom";
+
+
+const All = () => {
+    const temp = useParams();
+    //  temp.test = 1;
+    console.log(temp);
+const dispatch = useDispatch()   
+const datas = useSelector(store => store.seriesReducer.data)
     
+
+    
+        useEffect(() => {
+        dispatch(getData)
+        },[])
+
+
+        
+    
+
+
+
 
 //     const dispatch = useDispatch()
-//   useEffect(() => {
-//     dispatch(getData);
-// },[])
+//   useEffect(() 
 
 
-   
-    
-    return(
-        <div style={{width:"70%",height:"100px",display:"flex",border:"1px solid grey",margin:"auto",justifyContent:"space-between",marginTop:"10px"}}>
+
+ return(
+     <div>
+        {datas.map(item => (
+        <div key={item.id} style={{width:"70%",height:"100px",display:"flex",border:"1px solid grey",margin:"auto",justifyContent:"space-between",marginTop:"10px"}}>
 
             <div style={{marginLeft:"10px",textAlign:"left"}}>
                 <h4>{item.match}</h4>
@@ -32,10 +53,8 @@ const All = ({item}) => {
             <div style={{width:"30%",border:"1px solid black",backgroundColor:"blur",textAlign:"center",backgroundColor:"grey",color:"white",padding:"10px"}}>
                 <h3>{`${item.startingDate} To ${item.endingDate}`}</h3>
             </div>
-        </div>
-        
-    )
-}
+       </div>))}
+ </div>)}
 
 
-export {All};
+export {All}
