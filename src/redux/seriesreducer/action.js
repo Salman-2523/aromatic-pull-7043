@@ -1,23 +1,23 @@
 import * as types from "./actionTypes";
 import axios from "axios";
 
-const getData = (dispatch) => {
+const getData =()=> (dispatch) => {
     dispatch({type:types.GET_DATA_REQUEST})
-  return axios.get("http://localhost:8080/upcomingAll")
+   axios.get("http://localhost:8080/seiresData")
               .then((r) => {
                 // console.log(r.data)
                  dispatch({type:types.GET_DATA_SUCCESS,payload:r.data})
               }) 
               .catch(e => {
-                return dispatch({type:types.GET_DATA_FAILURE,payload:e})
+                 dispatch({type:types.GET_DATA_FAILURE,payload:e})
               }) 
 }
 
-const getUpInter = (dispatch) => {
+const getUpInter =()=> (dispatch) => {
   dispatch({type:types.GET_ITEM_REQUEST})
-return axios.get("http://localhost:8080/upcomingInter")
+ axios.get("http://localhost:8080/upcomingInter")
             .then((r) => {
-              return dispatch({type:types.GET_ITEM_SUCCESS,payload:r.data})
+               dispatch({type:types.GET_ITEM_SUCCESS,payload:r.data})
             }) 
             // .catch(e => {
             //   return dispatch({type:types.GET_DATA_FAILURE,payload:e})
@@ -25,11 +25,11 @@ return axios.get("http://localhost:8080/upcomingInter")
 }
 
 
-const getCompAll = (dispatch) => {
+const getCompAll =()=>(dispatch) => {
   // dispatch({type:types.GET_ITEM_REQUEST})
-return axios.get("http://localhost:8080/completedAll")
+ axios.get("http://localhost:8080/completedAll")
             .then((r) => {
-              return dispatch({type:types.GET_COMP_SUCCESS,payload:r.data})
+               dispatch({type:types.GET_COMP_SUCCESS,payload:r.data})
             }) 
             // .catch(e => {
             //   return dispatch({type:types.GET_DATA_FAILURE,payload:e})

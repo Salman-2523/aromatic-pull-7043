@@ -2,12 +2,11 @@ import {React, useEffect} from "react";
 import { useDispatch,useSelector } from "react-redux";
 import { getCompAll } from "../redux/seriesreducer/action";
 
-const Domestic = () => {
-    const datas = useSelector(store => store.seriesReducer.data)
-    const dispatch = useDispatch();
-    useEffect(()=>{
-      dispatch(getCompAll)
-    },[])
+const Domestic = ({status}) => {
+    const data = useSelector(store => store.seriesReducer.data)
+    const datas=data.filter(series=>(series.league=='Domestic')&&(series.status==status))
+
+   
     return(
         <div>
         {datas.map(item =>(

@@ -3,13 +3,10 @@ import {React} from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { getUpInter } from "../redux/seriesreducer/action";
 
-const International = ({item}) => {
-    const data = useSelector(store => store.seriesReducer.data)
-    console.log(data)
-    const dispatch = useDispatch()
-    useEffect(() => {
-        dispatch(getUpInter)
-    },[])
+const International = ({status}) => {
+    const datas = useSelector(store => store.seriesReducer.data)
+    const data=datas.filter(series=>(series.league=='International')&&(series.status==status));
+    
     return(
         <div>
         {data.map(item =>(      
