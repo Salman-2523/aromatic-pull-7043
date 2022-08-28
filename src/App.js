@@ -4,7 +4,7 @@ import { Navbar } from "./components/Home/Navbar";
 import { MainRoutes } from "./routes/MainRoutes";
 function App() {
   return (
-    <div>
+    <div >
       <Navbar />
       <div style = {{minHeight:'500px'}}>
 

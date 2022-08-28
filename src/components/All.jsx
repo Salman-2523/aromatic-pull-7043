@@ -8,30 +8,13 @@ import { useParams } from "react-router-dom";
 // import {useLocation} from "react-router-dom";
 
 
-const All = () => {
+const All = ({status}) => {
     const temp = useParams();
     //  temp.test = 1;
     console.log(temp);
 const dispatch = useDispatch()   
-const datas = useSelector(store => store.seriesReducer.data)
-    
-
-    
-        useEffect(() => {
-        dispatch(getData)
-        },[])
-
-
-        
-    
-
-
-
-
-//     const dispatch = useDispatch()
-//   useEffect(() 
-
-
+const {data} = useSelector(store => store.seriesReducer);
+const datas=data.filter(series=>series.status==status);    
 
  return(
      <div>

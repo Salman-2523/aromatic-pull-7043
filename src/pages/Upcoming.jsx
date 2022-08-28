@@ -1,10 +1,11 @@
 import {React,useEffect} from "react";
-import {Navbar2} from "../components/Navbar2";
 import {Route,Routes,NavLink,Outlet, useParams} from "react-router-dom";
-import {All} from "../components/All";
-import { International } from "../components/International";
+
 import {getData} from "../redux/seriesreducer/action"
 import { useDispatch } from "react-redux";
+import { Tabs, TabList, TabPanels, Tab, TabPanel } from '@chakra-ui/react'
+import { SubSeriesTab } from "./SubSeriesTab";
+
 // import { useParams } from "react-router-dom";
 
 
@@ -59,11 +60,25 @@ const Upcoming = () => {
 
     const dispatch = useDispatch()
   useEffect(() => {
-    dispatch(getData);
+    dispatch(getData());
 },[])
 return(
     <div>
-      <div className="upcomingNav" style={{width:"60%",display:"flex",gap:"20px",margin:"auto",justifyContent:"space-between"}}>
+     <SubSeriesTab status={'upcoming'}/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {/* <div className="upcomingNav" style={{width:"60%",display:"flex",gap:"20px",margin:"auto",justifyContent:"space-between"}}>
             <NavLink style={({isActive}) => {
              return isActive ? activeStyle : baseStyle
             }} to={`/series/${t}/all`}><div style={customStyle}>All</div></NavLink>
@@ -77,7 +92,7 @@ return(
              return isActive ? womenStyle : baseStyle
             }} to="/series/upcoming/womens"><div style={customStyle}>Womens</div></NavLink>
             </div>
-            <Outlet /> 
+            <Outlet />  */}
 
             
       

@@ -1,8 +1,8 @@
 import {React,useEffect} from "react";
-import {Navbar2} from "../components/Navbar2";
 import {Link,NavLink,Outlet} from "react-router-dom"
 import { useDispatch } from "react-redux";
 import { getCompAll } from "../redux/seriesreducer/action";
+import { SubSeriesTab } from "./SubSeriesTab";
 
 const Completed = () => {
     
@@ -57,7 +57,9 @@ const Completed = () => {
 },[])
     return(
         <div>
-           <div className="upcomingNav" style={{width:"60%",display:"flex",gap:"20px",margin:"auto",justifyContent:"space-between"}}>
+                    <SubSeriesTab status={'complete'}/>
+
+           {/* <div className="upcomingNav" style={{width:"60%",display:"flex",gap:"20px",margin:"auto",justifyContent:"space-between"}}>
             <NavLink style={({isActive}) => {
              return isActive ? activeStyle : baseStyle
             }} to={`/series/completed/all`}><div style={customStyle}>All</div></NavLink>
@@ -71,7 +73,7 @@ const Completed = () => {
              return isActive ? womenStyle : baseStyle
             }} to="/series/completed/womens"><div style={customStyle}>Womens</div></NavLink>
             </div>
-            <Outlet /> 
+            <Outlet />  */}
 
             
         </div>

@@ -1,8 +1,8 @@
 import {React} from "react";
-import {Navbar2} from "../components/Navbar2";
 import {Route,Routes ,Link,Outlet, NavLink,useParams} from "react-router-dom"
 import { All } from "../components/All";
 import { International } from "../components/International";
+import { SubSeriesTab } from "./SubSeriesTab";
 
 
 const Ongoing = () => {
@@ -55,7 +55,8 @@ const Ongoing = () => {
       }
     return(
         <div>
-            <div className="ongoingNav" style={{width:"60%",display:"flex",gap:"20px",margin:"auto",justifyContent:"space-between"}}>
+          <SubSeriesTab status={'ongoing'}/>
+            {/* <div className="ongoingNav" style={{width:"60%",display:"flex",gap:"20px",margin:"auto",justifyContent:"space-between"}}>
             <NavLink style={({isActive}) => {
              return isActive ? activeStyle : baseStyle
             }} to="/series/ongoing/all"><div style={customStyle}>All</div></NavLink>
@@ -69,7 +70,7 @@ const Ongoing = () => {
              return isActive ? womenStyle : baseStyle
             }} to="/series/ongoing/womens"><div style={customStyle}>Womens</div></NavLink>
             </div>
-            <Outlet /> 
+            <Outlet />  */}
 
             
            
