@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+<h1>cricket.com</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  <p align="center">
+    This is our Construct week project in unit 5 at <a href="https://www.masaischool.com/"> Masai School </a> 
+    <br />
+  
+</div>
+<br/>
+<br/>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<!-- ABOUT THE PROJECT -->
+<h4>Starting from ball-by-ball coverage and live score tracking, to housing and archiving every type of cricket data, along with news, opinions, and insights from around the world of cricket, Cricket.com is the most exhaustive yet comprehensive app the gentlemen's game has ever seen. </h4>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h2>Stack and Libraries Used</h2>
+<ul>
+  <li>React</li>
+  <li>Redux</li>
+  <li>json-server</li>
+  <li>Chakra-UI</li>
+</ul>
+<br/>
+<br/>
+<h3>Deployed Link</h3>
+<a href="https://cricket-aromatic-pull.netlify.app/
+">https://cricket-aromatic-pull.netlify.app/
+</a>
+<br/>
+<br/>
+<h2>Some Glimpse of the website</h2>
+<br/>
+<br/>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<h4>Landing Page</h4>
+<img src="src/landing_page.png" alt="landing page">
 
-### `npm run eject`
+<hr>
+<h4>Footer</h4>
+<img src="src/footer.png" alt="Footer">
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<hr>
+<h4>Fantasy Centre</h4>
+<img src="src/fantasy_centre.png" alt="Fantasy Centre">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<hr>
+<h4>Criclytics</h4>
+<img src="src/criclytics.png" alt="Criclytics">
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+<hr>
+<h4>Schedule</h4>
+<img src="src/schedule.png" alt="Schedule">
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<hr>
+<h4>Series</h4>
+<img src="src/series.png" alt="Series">
 
-## Learn More
+<hr>
+<h4>News</h4>
+<img src="src/news.png" alt="News">
+## Team Members
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Fahiz
+2. Rajkumar
+3. Salman
+4. Aman
+5. Arungoud 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+<!-- ACKNOWLEDGMENTS -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Acknowledgments
 
-### Advanced Configuration
+This project would have not been possible without
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Masai School's -Instructors
+- Prabhanjan Padhye
+- Manish Kumar
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#top">back to top</a>)</p>
