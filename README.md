@@ -64,7 +64,9 @@
 <hr>
 <h4>News</h4>
 <img src="src/news.png" alt="News">
-## Team Members
+
+
+<h2> Team Members</h2>
 
 1. Fahiz
 2. Rajkumar
