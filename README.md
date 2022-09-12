@@ -36,7 +36,7 @@
 <br/>
 
 <h4>Landing Page</h4>
-<img src="src/landing_page.png" alt="landing page">
+<img src="src/full_size_img.png" alt="landing page">
 
 <hr>
 <h4>Footer</h4>
