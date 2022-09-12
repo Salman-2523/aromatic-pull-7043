@@ -1,9 +1,6 @@
 <h1>cricket.com</h1>
 
 
-
-
-
   <p align="center">
     This is our Construct week project in unit 5 at <a href="https://www.masaischool.com/"> Masai School </a> 
     <br />
